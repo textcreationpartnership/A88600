@@ -1,0 +1,1924 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The watchmans watchword. A sermon preached at White-Hall upon the 30 of March last, being the fifth Wednesday in Lent, and the day of the monethly fast: by Richard Love D.D. Master of Corpus Christi Colledge in Cambridge, and chaplain in ordinary to his Majestie. Published by command.</title>
+            <author>Love, Richard, 1596-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88600</idno>
+            <idno type="STC">Wing L3193</idno>
+            <idno type="STC">Thomason E145_4</idno>
+            <idno type="STC">ESTC R19765</idno>
+            <idno type="EEBO-CITATION">99860737</idno>
+            <idno type="PROQUEST">99860737</idno>
+            <idno type="VID">112862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The watchmans watchword. A sermon preached at White-Hall upon the 30 of March last, being the fifth Wednesday in Lent, and the day of the monethly fast: by Richard Love D.D. Master of Corpus Christi Colledge in Cambridge, and chaplain in ordinary to his Majestie. Published by command.</title>
+                  <author>Love, Richard, 1596-1661.</author>
+               </titleStmt>
+               <extent>[4], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Roger Daniel printer to the Universitie of Cambridge,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah XXI, 12 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112862:1"/>
+            <pb facs="tcp:112862:1" rendition="simple:additions"/>
+            <p>THE WATCHMANS WATCHWORD. A Sermon preached at <hi>White-Hall</hi>
+upon the 30 of <hi>March</hi> laſt, being the fifth Wedneſday in Lent, and
+the day of the monethly Faſt:</p>
+            <p>By RICHARD LOVE D.D. <hi>Master of Corpus Chriſti
+Colledge</hi> in <hi>Cambridge,</hi> and Chaplain in ordinary to his
+Majeſtie.</p>
+            <p>Publiſhed by command.</p>
+            <q>
+               <bibl>EZEK. 33.6.</bibl>
+               <p>
+                  <hi>If the Watchman ſee the ſword come, and blow not the
+trumpet, and the people be not warned: if the ſword come and take any
+perſon from among them, he is ta<g ref="char:EOLhyphen"/>ken away in his iniquitie: but his bloud
+will I require at the Watchmans hand.</hi>
+               </p>
+            </q>
+            <p>Printed by ROGER DANIEL Printer to the Univerſitie of
+<hi>Cambridge.</hi> 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112862:2"/>
+            <pb facs="tcp:112862:2"/>
+            <head>¶ To the Right Honourable <hi>ROBERT</hi> Earl of
+<hi>Eſſex,</hi> Viſcount of <hi>Hereford,</hi> &amp;c. <hi>And</hi> To
+the Right Honourable <hi>HENRY</hi> Earl of <hi>Holland,</hi> Knight of the
+moſt no<g ref="char:EOLhyphen"/>ble Order of the Garter, and Chan<g ref="char:EOLhyphen"/>cellour of the Univerſitie of
+CAMBRIDGE.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y the command of the one of your Lordſhips, I was ſummoned
+to this performance; and under the com<g ref="char:EOLhyphen"/>mand of the other, I prepared it at my
+ſtation in Cambridge; and now at the command of both, I publiſh it to the
+world. Your Lordſhipse having thus had a joynt influence into this poor,
+<pb facs="tcp:112862:3"/>birth, pardon my boldneſſe if I intitle it to you both: that
+what worth it wanteth in it ſelf, it may borow from the lustre of two ſuch
+names. God and Nature have united your Honours in conſanguinity and
+af<g ref="char:EOLhyphen"/>fection; which makes me preſume the more to unite you here. Though to deal
+ingenuouſly, in this caſe I rather crave your noble Teſtimonie, then
+Patro<g ref="char:EOLhyphen"/>nage: It being best known unto your Lordſhips, that this Edition is
+rather an act of my obedience, then choice. I know my ſelf too well to think
+that any thing of mine is worthy to be tranſmitted to an other age: And no
+heart grieves more then mine, to ſee the boldneſſe of the daring
+Preſſe. Yet if any spark of pietie hath been kindled in any breast by my
+meditations, I beſeech the God of heaven to che<g ref="char:EOLhyphen"/>riſh it. To that Almighty
+Goodneſſe I betake your Honours, and reſt</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble and obedient ſervant
+in the Lord, RICHARD LOVE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112862:3"/>
+            <head>
+               <q>
+                  <bibl>ISAIAH 21.12.</bibl>
+                  <p>The VVatchman ſaid, The Morning cometh, and alſo the Night: If
+ye will inquire, inquire ye: return, come.</p>
+               </q> 
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Or coherence, we take our riſe no higher then the foregoing
+verſe: There this par<g ref="char:EOLhyphen"/>ticular propheſie begins, as in the Text it ends. It
+bears in title, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The burden
+of Dumah.</hi> A ſhort Propheſie, but full of obſcurity: S.
+<hi>Hierome</hi> ſtyled it ſo of old,
+<note n="*" place="margin">Hieron. in locum.</note>
+               <hi>Loca
+difficilia quae ſecundùm hiſtoriam mi<g ref="char:EOLhyphen"/>nime patent.</hi> And of late
+judicious <hi>Calvin</hi> hath ſaid as much,
+<note n="*" place="margin">Calv. in locum, ex quo Junius, <hi>Haec
+Prophetia quò brevior, eò obſcurior.</hi>
+               </note>
+               <hi>Haec
+Prophetia, quòd brevis ſit, obſcura est.</hi> And no marvell though
+it be obſcure and dark, ſince (as you ſee) there is a <hi>Night</hi> in
+the Text: And ſuch a Night, that if we call either to the ancient
+Expoſitours or the new, in the words of the man of Seir in the foregoing
+verſe, <hi>Watchman what of the Night? Watchman what of the Night?</hi>
+               <note place="margin">Iſa. 21.11.</note> they lend us but little light to guide our
+ſteps. Yea rather as men benighted and in the dark them<g ref="char:EOLhyphen"/>ſelves, each
+Interpreter almoſt wanders a ſeverall way. <hi>Quae, Quando, Quibus:</hi>
+What night this is that is here propheſied: When this night was to betide:
+Laſtly, What people they are againſt whom it is threatned, are ſtill in
+the dark, ſtill <hi>in tenebris,</hi> though long diſputed. But thus much
+(which may ſuffice our turn) is clear, and <pb n="2" facs="tcp:112862:4"/>agreed on all
+hands; Firſt, for the <hi>Quae,</hi> What night ſoe<g ref="char:EOLhyphen"/>ver it is, it is
+<hi>Nox atra,</hi> a night of horrour and confuſi<g ref="char:EOLhyphen"/>on, a night of warre and
+deſolation: This redoubled calling to the Watchman implyes no leſſe,
+<note n="*" place="margin">Virg. Aen. 6.</note>
+               <hi>Rebus nox
+abſtulit atra colorem.</hi> Secondly, for the <hi>Quando,</hi> this ſad
+night was <hi>Nox propinqua,</hi> not farre off, but hard at hand, a <hi>coming
+night, Nox ruit &amp; praeceps coelo devolvitur.</hi> Laſtly, for the
+<hi>Quibus,</hi> the people here concerned, they are <hi>Populus in
+vicinia:</hi> So much appears by this inter<g ref="char:EOLhyphen"/>courſe of ſpeech, they are a
+people within Iſraels call, a neighbour Nation, in the confines of Judea, and
+of the ſeed of Abraham: and therefore here their ſad doom is ſtyled,
+<hi>The burden of Dumah. Dumah,</hi> if
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it be put for <hi>Idumea</hi> (as
+S.
+<note n="*" place="margin">Hieron. in loc.</note>
+               <hi>Hierome</hi>
+doth underſtand it, and indeed the
+<note n="*" place="margin">Septuag.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Septuagint</hi> do
+ſo tranſlate it) then the people here meant are the <hi>Idumeans,</hi> as
+the Greeks call them, that is the <hi>Edomites,</hi> the poſterity of Eſau:
+who as for his <hi>redneſſe</hi> he was called
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>rubi<g ref="char:EOLhyphen"/>cundus,</hi> Gen. 25.24. &amp; 30.</note>
+               <hi>Edom,</hi>
+ſo for his <hi>rough<g ref="char:EOLhyphen"/>neſſe</hi> he was called
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>pilo<g ref="char:EOLhyphen"/>ſus, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> Gen.
+27.11.</note>
+               <hi>Seir,</hi> the very word in the foregoing verſe. There be
+ſome of the Rabbines that inſtead of
+<note n="*" place="margin">Pro
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, le<g ref="char:EOLhyphen"/>gunt
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Hieron.</note>
+               <hi>Dumah</hi>
+reade it <hi>Roma, The burden of Rome,</hi> ſay they, telling us withall that
+the Romanes are not deſcended from <hi>Pius Aeneas</hi> and the Trojan race,
+but from theſe very Edomites, and the ſtock of Eſau. I will not war<g ref="char:EOLhyphen"/>rant
+that pedigree, nor indeed allow that reading: But ſure I am that the
+preſent Church of Rome, though it be the ſeat of his Holineſſe, and
+talk much of piety, though it hath the voice of Jacob yet their hands are the
+hands of Eſau. Their Roughneſſe and their Redneſſe, their bloudy
+perſecutions (witneſſe this day) do ſhew to all the world of what
+houſe they come.
+<note n="*" place="margin">Pſal. 137.7.</note>
+               <hi>Remember the
+children of E<g ref="char:EOLhyphen"/>dom, O Lord, in the day of Hieruſalem; how they ſaid, Down
+with it, Down with it, even to the ground.</hi> But if <hi>Dumah</hi> here
+meant be one of the ſonnes of Iſhmael, as moſt agree, for Gen. 25.14.
+amongſt Iſhmaels ſonnes are reckoned up <hi>Miſma, and Dumah, and
+Maſſa;</hi> then the people here aimed at in this
+<note n="*" place="margin">
+                  <hi>Dumam ple<g ref="char:EOLhyphen"/>tique accipwat
+Synecdochicè pro Jiſhmahhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itis abillo Du<g ref="char:EOLhyphen"/>ma, enjus fit men<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Gen. 25.14. J<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m.
+in loc.</note>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are by a
+<hi>Syn<g ref="char:EOLhyphen"/>ecdoche</hi> 
+               <pb n="3" facs="tcp:112862:4"/>the Iſhmaelites, the Hagarens, who
+have ſince falſely called themſelves the Saracens, that is, the Turks,
+and thoſe whom we now call Mahumetans.</p>
+            <p>Were my errand unto you this day concerning either of theſe two;
+were the burden of this day in either of theſe ſenſes <hi>the burden of
+Dumah,</hi> threatning or rela<g ref="char:EOLhyphen"/>ting a night of miſery and deſolation to the
+Edomites or Iſhmaelites, to the enemies of the Goſpel, whether of old Rome
+or
+<note n="*" place="margin">
+                  <hi>Conſtantino<g ref="char:EOLhyphen"/>polis olim dicta nov a
+Roma,</hi> Ort.</note> new, whether Papiſme or Turciſme; I ſhould bear
+that burden with more eaſe, and you might heare it with more alacrity. But,
+alas beloved! the burden of this day is <hi>Onus Aetnâ gravius,</hi> it
+is The burden of Ireland; poore Ireland is the burden of our ſad ditty. Not
+Mahumetans, but Chriſtians; nay not Papiſts, but Proteſtants: and
+therefore their burden is a heavie burden unto us; even <hi>Onus Dumah</hi> in
+another ſenſe, <hi>The burden of ſimilitude:</hi> ſo the word
+ſignifies from <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith S.
+Hierome.<note place="margin">Hieron in locum.</note> And ſurely the burden of
+Ireland is a bur<g ref="char:EOLhyphen"/>den of ſimilitude to us both in regard of the
+<hi>ſufferers,</hi> and alſo in regard of the <hi>ſufferings.</hi>
+Firſt, in regard of the <hi>ſufferers,</hi> is it not a burden of
+ſimilitude? Are they not our brethren? We and they children of the ſame
+father Abraham, and that not by Hagar, but by Sarah; not by the bondwoman, but
+the free, <hi>Hieruſalem that is above is free, which is the mother of
+us</hi> both.<note place="margin">Gal. 4.26.</note> Nay they and we children of
+the ſame father Jacob; not Edomites, but Iſraelites, not rough and bloudy
+Papiſts, but peacefull Proteſtants, true and humble Catholicks. We and they
+brethren in one God, of the ſame Religion: brethren in one Prince, of the
+ſame ſubiection under our moſt Gra<g ref="char:EOLhyphen"/>cious Sovereigne: and, for the moſt
+part, brethren in the ſame bloud, of the ſame extraction: are they <hi>not
+fleſh of our fleſh, and bone of our bone?</hi> Then ſurely this muſt
+make their burden a burden of ſimilitude, even a heavie burden unto us in
+regard of the ſufferers, thus Naturally, Civilly, and Spiritually near and
+dear unto us.</p>
+            <p>But this is not all; It is likewiſe to us <hi>Onus Dumah,</hi> a
+<pb n="4" facs="tcp:112862:5"/>burden of ſimilitude in regard of the
+<hi>ſufferings.</hi> Be not deceived; Whatſoever poore Ireland now
+ſuffers in this cauſe, England hath cauſe to fear the like, unleſſe
+by Gods great mercy, and our timely repentance, it be pre<g ref="char:EOLhyphen"/>vented. <hi>Jam
+proximus ardet <g ref="char:V">Ʋ</g>calegon:</hi>
+               <note place="margin">Virg.</note> Ireland
+fla<g ref="char:EOLhyphen"/>meth, and is not England ſcorched? It is not all the wa<g ref="char:EOLhyphen"/>ter of the
+intervening ſea can keep that fire from us, ſo long as the ſame
+firebrands are amongſt us. The Au<g ref="char:EOLhyphen"/>thours and Actours of the Iriſh Tragedy
+who are they, but the common enemies of us as well as them, yea of our God and
+our Religion? Even the <hi>Iſhmaelites</hi> and <hi>Edo<g ref="char:EOLhyphen"/>mites,</hi> the
+Romiſh ſhall I call them, or (for their cruelty) the Turkiſh Prieſts
+and Jeſuites. They own it now, nay
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with open face they proclaim it
+to the world: It is (ſay they) for Gods religion, and for the Kings
+Pre<g ref="char:EOLhyphen"/>rogative. Thus they dare to ſpit their poyſon in the face of heaven; to
+blaſpheme the Lord and his Annointed. O ye unhallowed Prieſts,
+<hi>ſacerrimi ſacerdotes!</hi> Is this your religion? <hi>Tantum Relligio
+potuit ſuadere malorum?</hi> Is this the unbloudy ſacrifice you ſo much
+talk of? to offer up whole hecatombes of pious ſouls, by impious hands? To
+diſhonour matrons, To raviſh virgins, To daſh out the childrens brains
+before the parents eyes? God bleſſe my ſoul from ſuch religion. And, O
+ye traiterous and re<g ref="char:EOLhyphen"/>bellious Loyoliſts! Is this your loyaltie unto your
+King? Is this the maintenance of his Prerogative to torture, to murder, to
+maſſacre his ſubjects, to ſurprize his caſtles, to fire his Towns, to
+ſack, to ranſack, to ruine all? We were wont to ſay that no poyſonous
+creature could live in Ireland; but now, it ſeems, no other muſt. Now
+behold a generation of vipers, that have even torn the bowels of their mother,
+laid that poore land weltering in her bloud, and brought a diſmall night upon
+that Church and State; even <hi>the night</hi> of the Text, a night of horrour
+and con<g ref="char:EOLhyphen"/>fuſion, a night of warre, yea of the worſt of warres, and
+deſolation.</p>
+            <q>
+               <pb n="5" facs="tcp:112862:5"/>
+               <l>
+                  <hi>Quis cladem illius Noctis, quis funera fando</hi>
+               </l>
+               <l>
+                  <hi>Explicet, aut poſſit lacrymis aequare labores?</hi>
+                  <note place="margin">Virg. Aen. 2.</note>
+               </l>
+            </q>
+            <p>
+               <hi>O that my head were waters, and mine eyes a fountain of tears,
+that I might weep day and night for the ſlain of the daughter of</hi>
+Ireland.<note place="margin">Jer. 9.1.</note> And therefore are we met this
+ſolemne day, yea even all the congregations throughout this Land are met,
+<hi>Ad exequias Hiberniae &amp; parentalia,</hi> to celebrate the funeralls of
+ſo many thouſands of our poore brethren ſlain and made away in Ireland.
+If we be backward to ſend them other ſuccours, yet let us at leaſt afford
+the ſuccour of our ſighs, our groans, our tears: If we forbear timely to
+relieve the living, let us not forbear to bewail the dead: Or if we have no
+ſenſe of them, let us not be ſenſeleſſe of our ſelves. Here we
+are gathered together as the Iſraelites in <hi>Bochim</hi> (in the valley of
+tears) <hi>to lift up our voyce and weep:</hi>
+               <note place="margin">Judges
+2.4.5.</note> or as they were gathered unto <hi>Mizpeh, to draw water and poure
+it out before the Lord,</hi>
+               <note place="margin">1. Sam. 7.6.</note> to faſt
+<hi>and to ſay, We have ſinned against the Lord.</hi> We ſhould weep for
+them, but weep not for them onely but our ſelves withall. England hath
+<hi>Iſhmaelites</hi> and <hi>Edomites</hi> at home: I mean not onely the
+Prieſts and Jeſuites; but our own diſtempers and di<g ref="char:EOLhyphen"/>ſtractions; our
+rents and our diviſions, <hi>for the diviſions of Reuben there are great
+thoughts of heart.</hi>
+               <note place="margin">Judges 5.15.</note> Lord make up
+theſe breaches, and compoſe our differences, oc<g ref="char:EOLhyphen"/>caſioned by our ſinnes.
+O theſe, beloved, are our home<g ref="char:EOLhyphen"/>bred Iſhmaelites and Edomites, even our
+ſinnes, our ſinnes; our open and our ſecret ſinnes; our nationall and
+our perſonall ſinnes; our common and our particular ſinnes; even the
+ſinnes of every mans own heart. We are all ready enough to cry out againſt
+the times; and indeed the times are bad: but they are the perſons that infect
+the times; and where is one of a thouſand that reflects upon himſelf, that
+duly conſiders what influence his particular hath unto the publick State; and
+whether his own ſinnes help not forward the common wo. Who abates a
+plea<g ref="char:EOLhyphen"/>ſure? who crucifies a luſt the more? Well, for all our
+<pb n="6" facs="tcp:112862:6"/>faſtings and our prayers, except we turn from theſe, we
+cannot expect that God ſhould turn to us, or turn away this diſmall night
+that threatens us. England and Ireland lie at ſtake this day, and thy
+ſoul's ingaged for their redem<g ref="char:EOLhyphen"/>ption: be not careleſſe then in a
+buſineſſe of ſo great im<g ref="char:EOLhyphen"/>portance, but <hi>Inquire,</hi> yea
+<hi>Inquire</hi> while thou haſt light to ſee, while it is yet morning,
+<hi>The morning cometh</hi> ſaith the Text. Be not obſtinate to go on, but
+<hi>Return,</hi> yea <hi>Re<g ref="char:EOLhyphen"/>turn</hi> before it be too late, before it be full
+night, <hi>The mor<g ref="char:EOLhyphen"/>ning cometh and alſo the night.</hi> And if I ſhall
+prevail with you ſo farre as to Inquire and to Return; behold I have
+commiſſion from my Text to invite you all; to invite you all this day to
+God; to bid you <hi>Come, Come</hi> with comfort, <hi>Come</hi> with
+confidence, <hi>Come</hi> and welcome. There is not a man amongſt us, I
+preſume, but ſees him<g ref="char:EOLhyphen"/>ſelf in the dark, and the world in a night; he
+often cries, O that Ireland were reſtored, and England ſafe, and my ſoul
+ſecure with God: Come this day and ſecure thy ſoul with God, it is the
+beſt means that thou canſt uſe for both the other. We are very
+inquiſitive, What news, what news? I do not come to ſtop your inquiries,
+but to di<g ref="char:EOLhyphen"/>rect them: Inquire on Gods name, but inquire of God; Inquire of
+<hi>whom</hi> you ſhould; Inquire of <hi>what</hi> you ſhould; Ask the
+queſtion immediately before the Text, <hi>Cuſtos, quid de nocte? Watchman,
+what of the night? Watchman, what of the night?</hi> and behold there is a
+Watchman in the Text ſhall anſwer you, <hi>The Watchman ſaid, The morning
+cometh, and alſo the night; if ye will inquire, inquire; return,
+come.</hi>
+            </p>
+            <p>In which words we may obſerve two generalls, <hi>The
+Watchman,</hi> and <hi>The Watchword:</hi> Or if you pleaſe
+<hi>Con<g ref="char:EOLhyphen"/>cionatorem &amp; Concionem:</hi> To ſave my labour you have a
+Preacher and a Sermon in the Text. The firſt generall concerns the Preacher,
+<hi>Who</hi> he is, and <hi>What</hi> he doth. Who he is, His <hi>Charge</hi>
+and function: What he doth, his <hi>Discharge</hi> and execution. 1. For his
+<hi>Charge,</hi> he is <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith
+the Originall, <hi>Cuſtos</hi> ſaith S. <hi>Hierome,</hi> a
+<pb n="7" facs="tcp:112862:6"/>Keeper; <hi>Vigil,</hi> a Watcher, ſo ſaith
+<hi>Junius,</hi> and both ſay well; <hi>Nam &amp; custodiendo vigilat, &amp;
+vigilando custo<g ref="char:EOLhyphen"/>dit.</hi> He is ſo a Watcher, that he keeps a continuall
+watch, and therefore he is called <hi>The Watchman.</hi> 2. For his
+<hi>Diſcharge</hi> and execution,
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith the Hebrew;
+<hi>Di<g ref="char:EOLhyphen"/>xit,</hi> ſaith S. <hi>Hierome; Dicit,</hi> ſaith <hi>Junius;</hi>
+that is by an Hebraiſme for <hi>Dicet,</hi> ſaith <hi>Vatablus:</hi> He
+<hi>hath ſaid,</hi> ſaith the one; He <hi>doth ſay,</hi> ſaith the
+other; He <hi>will ſay,</hi> ſaith a third; and all ſay true; for he both
+hath ſaid it, ſtill doth ſay it, and ever muſt: while he is
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he muſt be
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, while he is a Watchman he muſt
+be a Spokeſ<g ref="char:EOLhyphen"/>man, <hi>The Watchman ſaid.</hi>
+            </p>
+            <p>
+               <hi>That he ſaid</hi> we ſee, <hi>What</hi> he ſaid we
+muſt ſee, <hi>The watchword.</hi> If you will have it in a word, in ſhort
+(as watchwords for the moſt part are) it is the common watchword of all Gods
+Watchmen from the beginning of his Church untill this day, <hi>Repent.</hi>
+               <note place="margin">
+                  <hi>Ad poenitentiam ſemper hortatus eſt,
+&amp; prophetan<g ref="char:EOLhyphen"/>do, univerſorum prophetarum e<g ref="char:EOLhyphen"/>miſit ora,</hi> Tertull. de
+poen. cap. 2.</note> So all the Pro<g ref="char:EOLhyphen"/>phets, <hi>praecones poenitentiae,</hi> all
+their propheſies were but ſo many echoes of this word <hi>Repent.</hi> So
+he that was not onely a Prophet but more then a Prophet, John the Ba<g ref="char:EOLhyphen"/>ptiſt,
+<hi>In thoſe dayes came John the Baptiſt preaching in the wilderneſſe
+of Judaea and ſaying,</hi> what? <hi>Repent.</hi>
+               <note place="margin">Matth.
+3.1.</note> Nay ſo not onely all the Watchmen, <hi>vigiles,</hi> but
+<hi>praefectus vigilum,</hi> the great maſter of the watch Chriſt Jeſus,
+<hi>From that time Jeſus began to preach and to ſay,</hi> what?
+<hi>Repent.</hi>
+               <note place="margin">Matth. 4.17.</note> All true preaching
+begins, yea and ends in this: Repent is the ſumme of every Sermon: I am
+ſure it is the ſumme of our Preachers Sermon in the Text: ſo that Re<g ref="char:EOLhyphen"/>pent
+is the Text, and the Text the Sermon. A plain Ser<g ref="char:EOLhyphen"/>mon conſiſting of a
+<hi>Doctrine</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>ſe:</hi> The <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> or monition
+in theſe words, <hi>The morning cometh and alſo the night.</hi> The beſt
+motive to repentance is the conſideration of the motion of our time. 'Tis
+true in the generall, 'tis true of all times, of every <hi>Morning</hi> and of
+every <hi>Night;</hi> but eſpecially of theſe times in the Text, <hi>of
+this Morning</hi> and <hi>of this Night:</hi> If This Morning co<g ref="char:EOLhyphen"/>meth, and
+alſo this Night, it is high time to fall to the <pb n="8" facs="tcp:112862:7"/>Practice of
+Repentance, and that is the ſecond particular, the <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> The
+Practice of Repentance what is that? why, <hi>To Inquire, to Return, to
+Come.</hi> Three exquiſitely well ordered ſteps of true Repentance; firſt
+<hi>Inquiſition,</hi> ſe<g ref="char:EOLhyphen"/>condly <hi>Converſion,</hi> and laſtly
+<hi>Acceſſion.</hi> He that is per<g ref="char:EOLhyphen"/>fectly penitent is <hi>Come,</hi> even
+come home to God: but no man can ever come home to God, that doth not firſt
+<hi>Return</hi> from his ſinnes: and no man will return from his ſinnes
+that doth not firſt <hi>Inquire</hi> into himſelf and his condition:
+Therefore ſaith our heavenly Watchman firſt Inquire, then Return, then
+Come, <hi>The Watchman ſaid, The morning cometh and alſo the night; if ye
+will inquire, inquire, return, come.</hi>
+            </p>
+            <p>THeſe are the ſeveralls whereon, by Gods aſſiſtance, I
+ſhall inſiſt, ſo far as your Honourable patience ſhall give way: all
+together do fit the <hi>ſeaſon</hi> and the <hi>occaſion.</hi> you have a
+penitentiall Text in this twofold penitentiall day: The day is not onely a
+ſet day of Lent, a yearly faſt; but a ſolemne day appointed by the State,
+a moneth<g ref="char:EOLhyphen"/>ly faſt. I truſt therefore that it will ſeem no ſoleciſme
+(though at Court) upon a double ſolemne faſt, to give you
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> more then the meaſure of a
+ſingle Sermon: At leaſt where your patience ſhall give me over, endure
+the reſt as penance for the day. The Text, juſt as the day, is full, even
+full of tears: It is <hi>Domus luctûs,</hi> an houſe of mourning, where
+there are many rooms, but every room you will find to be hung with blacks. It
+is <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Repentance Tower againſt
+ſinne and Satan. Like Davids tower from whence he ſmote the Philiſtines:
+That there is called <hi>the tower of the Watch<g ref="char:EOLhyphen"/>men; He ſmote the
+Philiſtines from the Tower of the watchmen.</hi>
+               <note place="margin">2. Kings
+18.8.</note> I am ſure that ours is ſo, God grant that we may ſmite our
+enemies from hence. Nay like mount <hi>Sion</hi> (and
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith S. Hierome,<note place="margin">
+                  <hi>Sion Arx Specula interpretatur,</hi> Hieron. in Hierem. cap.
+6.</note> ſignifies a Watch-tower too) it is a ſtrong caſtle
+conſiſting of many towers: And therefore now, if you pleaſe, we will with
+David in the 48. Pſalme,
+<note place="margin">Pſal. 48.11.</note>
+               <hi>Walk about Sion, and go
+round about her, <pb n="9" facs="tcp:112862:7"/>and tell the Towers thereof.</hi> But not
+about her onely, but into her too; even into every Tower. And that we may get
+in we muſt make our entrance by the <hi>Watch<g ref="char:EOLhyphen"/>man,</hi> who ſtands
+Centinel, you ſee, even at the very gate of the Text, <hi>Cuſtos dixit, The
+Watchman ſaid:</hi> Where the firſt particular is the conſideration of
+his <hi>Charge</hi> and Function, <hi>The Watchman.</hi>
+            </p>
+            <p>The Watchman who is that? <hi>Deus Cuſtos die ac no<g ref="char:EOLhyphen"/>cte,</hi>
+ſaith S. Hierome,<note place="margin">Hieron. in locum.</note> on the Text, He
+maketh this Watchman to be God. And moſt true it is that God is
+<hi>Cuſtos</hi> a Keeper, a Watchman to his Church: Nay <hi>Vi<g ref="char:EOLhyphen"/>gil,</hi> a
+perfect Watchman, for he doth neither <hi>dormire</hi> nor <hi>dormitare,</hi>
+               <hi>Behold,he that keepeth Iſrael ſhall neither ſlumber nor ſleep; The
+Lord himſelf is thy Keeper:</hi>
+               <note place="margin">Pſal. 121.4.</note> An
+unſpeakable comfort to every righteous ſoul in theſe times of danger. Was
+there ever more danger? Are not theſe S. Pauls very
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Hard times, ſo it is in the
+Ori<g ref="char:EOLhyphen"/>ginall: <hi>Perilous times,</hi>
+               <note place="margin">2. Tim. 8.1.</note> as
+we tranſlate it. In S. Pauls words in another place, Times full of perils,
+<hi>perils of wa<g ref="char:EOLhyphen"/>ters, perils of robbers, perils of our own Country-men,
+pe<g ref="char:EOLhyphen"/>rils of the heathen, perils in the Citie, perils in the wil<g ref="char:EOLhyphen"/>derneſſe,
+perils in the ſea, perils among falſe brethren.</hi>
+               <note place="margin">2.
+Cor. 11.26.</note> Why alas what comfort, what ſecuritie can a pious ſoul
+have in ſuch time of peril? Surely none (that I know) but this, <hi>Deus
+Cuſtos,</hi> The Watchman is the Lord, <hi>The Lord himſelf is thy
+Keeper,</hi> the true Lord Keeper of his Church, and every faithfull member of
+it. And there<g ref="char:EOLhyphen"/>fore as it is in the Pſalme, <hi>The lying lips ſhall be put
+to ſilence which cruelly, diſdainfully, and deſpitefully ſpeak
+againſt the Righteous.</hi>
+               <note place="margin">Pſal. 31.20.</note> But for
+them, <hi>Thou, O Lord, ſhalt hide them privily by thine own preſence, Thou
+ſhalt keep them ſecretly in thy Tabernacle, from the ſtrife of tongues.
+Thou ſhalt hide them by thine own preſence:</hi>
+               <note place="margin">23.</note> O bleſſed and ſecure condition! unadviſed
+Jonah, he be<g ref="char:EOLhyphen"/>ing troubled <hi>flyeth from the preſence of the Lord;</hi>
+               <note place="margin">Jonah 1.3.</note> but in the next verſe, he falls into a
+ſtorm; <hi>The Lord ſent a great wind into the ſea, and there was a
+mighty tem<g ref="char:EOLhyphen"/>peſt.</hi> 
+               <pb n="10" facs="tcp:112862:8"/>How much better is it, with David in
+a ſtorm and tempeſt to flie for ſhelter into the preſence of the Lord?
+<hi>Thou ſhalt hide them privily by thine own preſence. Thou ſhalt keep
+them ſecretly in thy Tabernacle.</hi> The Cham<g ref="char:EOLhyphen"/>ber of Gods preſence in
+their ſouls ſhall be their prote<g ref="char:EOLhyphen"/>ction; Gods Tabernacle ſhall be their
+Caſtle; and God himſelf ſhall be <hi>Cuſtos,</hi> the Keeper, <hi>the
+Watchman.</hi>
+            </p>
+            <p>Though this be moſt true and comfortable, that God is a
+Watchman; yet, with all reverence to S. Hierome, God (I take it) is neither the
+onely nor indeed the proper Watchman in the Text. And therefore in the ſecond
+place, <hi>The Watchman,</hi> that is <hi>Miniſter Dei,</hi> ſaith
+<hi>
+                  <g ref="char:V">Ʋ</g>rſine;</hi>
+               <note place="margin">Urſinus in Comm.</note>
+               <hi>Pro<g ref="char:EOLhyphen"/>pheta,</hi> ſaith <hi>Junius</hi> on the place,<note place="margin">Jun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us in Notis.</note>
+               <hi>qui ſe cuſtodem eſſe gloriatur &amp; excubare pro ſalute populi,
+judiciáque Dei explorare.</hi> The Prophets, the Miniſters of Gods
+Word and Sacraments, are Gods Watchmen in his Church, who are there ſet by
+him <hi>to watch over the peoples ſouls as they that muſt give
+account;</hi>
+               <note place="margin">Heb. 13.17.</note> and timely <hi>to blow their
+trumpet,</hi>
+               <note place="margin">Ezek. 33.31.</note> to deſcrie and diſcover
+Gods approaching wrath and judgements for the peoples ſinnes. Theſe are the
+pro<g ref="char:EOLhyphen"/>per Watchmen of the Text; not excluding God; for he, as you have heard, is
+<hi>Cuſtos,</hi> nay <hi>Cuſtos cuſtodum,</hi> The Watchmens Watchman,
+<hi>Qui cuſtodit ipſos cuſtodes,</hi> He keepeth the Keepers;
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith S. Peter,<note place="margin">1. Pet. 5.4.</note> The <hi>chief Shepherd,</hi> that is, the
+Shepherd of Shepherds; <hi>Cu<g ref="char:EOLhyphen"/>rat oves, oviúmque magiſtros;</hi> He
+feeds the ſhepherds and their flocks too; he watcheth both over the Watch<g ref="char:EOLhyphen"/>man
+and the Citie too. And it is well it is ſo, for <hi>Except the Lord keep the
+Citie, the Watchman watcheth but in vain.</hi>
+               <note place="margin">Pſal.
+127.2.</note> But under God it is the Watchmans proper charge to watch; and no
+man muſt ſerve in that <hi>charge,</hi> but who is there ſet by God;
+either <hi>immediately</hi> by him<g ref="char:EOLhyphen"/>ſelf, in extraordinary caſes; ſo God
+ſet Ezekiel, <hi>Sonne of man, I have made thee a Watchman unto the houſe
+of Iſrael:</hi>
+               <note place="margin">Ezek. 3.17.</note> Or <hi>mediately,</hi>
+in a ſettled and ordinary way, by men authoriſed thereto from God; as here
+at the ſixth verſe, <hi>Thus hath the Lord ſaid unto me, Go ſet a
+Watch<g ref="char:EOLhyphen"/>man.</hi>
+               <note place="margin">Iſaiah 21.6.</note> 
+               <pb n="11" facs="tcp:112862:8"/>The
+Apoſtles themſelves were ſet as Watchmen immediately by God: And by
+authoritie from God, they with their own hands
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſet their ſucceſſours to
+be Watchmen after them; that they ſhould ſtill <hi>lampada tradere,</hi>
+orderly ſucceed in the ſeverall watches of the <hi>night,</hi> untill the
+<hi>morning</hi> of the reſurrection, the <hi>great day,</hi> the <hi>day of
+the Lord:</hi> and ſo as it were from hand to hand continue a
+ſucceſſive watch <hi>by impoſition of hands.</hi> And bleſſed be
+God, that ſo it is ſtill in this our Church. Let therefore no bold and
+common perſon without a cal<g ref="char:EOLhyphen"/>ling, dare to profane the miniſterie of Gods
+holy ordi<g ref="char:EOLhyphen"/>nances; O let them not dare to ſit in <hi>Moſes chair,</hi> nor
+lay hands upon the <hi>Ark of Aaron.</hi> For Lay-men to teach and inſtruct
+their families at home, in the fundamentall grounds of pietie and Religion,
+ſuch as they underſtand, God forbid I ſhould open my mouth againſt it;
+nay let my mouth be for ever ſhut, when it ſhall not be ready to open it
+ſelf in approbation of it, and exhortation to it. <hi>
+                  <g ref="char:V">Ʋ</g>nusquiſque
+paterfamilias eſt miniſter Chriſti, &amp; erga ſuos Eccleſiaſticus;
+&amp; quodammodo Epiſcopale officium implere debet:</hi>
+               <note n="*" place="margin">Aug. in Pſal. 50. <hi>Quomodo per<g ref="char:EOLhyphen"/>tinet
+in Eccleſia loqui vobis, ſic ad vos pertinet in domibus ve<g ref="char:EOLhyphen"/>ſtris agere,
+&amp;c.</hi>
+               </note> S. Auguſtine. Every man in this caſe is a Miniſter,
+nay if you will a Biſhop, ſo he keep his Dioceſſe. But for the publick
+charge, the <hi>Pulpit,</hi> that is <hi>the chair of Moſes:</hi> let Nadab
+and Abihu then take heed how they approach unto it; there to offer up <hi>the
+ſtrange fire</hi> of their prepoſterous zeal, leſt <hi>fire come down
+from heaven, and ſo devoure them.</hi>
+               <note n="*" place="margin">Lev.
+10.2.</note> 
+               <hi>The ſupper of the Lord</hi> is <hi>the Ark of the
+Covenant,</hi> committed to the charge of Aaron and his ſonnes: let then no
+over-officious Uzzah dare to put forth his unhallowed hand and touch it, no,
+though hap<g ref="char:EOLhyphen"/>pily he intendeth no harm, though he think onely <hi>to hold it when
+the oxen ſhake it;</hi>
+               <note place="margin">2. Sam. 6.6.</note> Leſt <hi>the
+anger of the Lord be kindled againſt <g ref="char:V">Ʋ</g>zzah, and God ſmite him that he die
+before the Ark.</hi> O then as we love our ſouls, let us learn to know our
+ſelves, and know our charges: <hi>Let no man take this honour unto himſelf,
+but he that is called of God as Aaron was.</hi>
+               <note place="margin">Heb.
+5.4.</note> 
+               <hi>Are all Apoſtles? are all Pro<g ref="char:EOLhyphen"/>phets?</hi>
+               <note place="margin">1. Cor. 12.29</note> 
+               <pb n="12" facs="tcp:112862:9"/>
+               <hi>are all Teachers?</hi>
+It is a known and admirable Climax of the Apoſtles: <hi>How then ſhall they
+call on him, in whom they have not believed? And how ſhall they be<g ref="char:EOLhyphen"/>lieve in
+him, of whom they have not heard? And how ſhall they heare without a
+Preacher? And how ſhall they preach except they be ſent?</hi>
+               <note place="margin">Rom. 10.14.</note> God is my witneſſe, I ſpeak not this out
+of any ſpirit of pride, or contempt of the perſons or gifts of others, be
+they never ſo mean; much leſſe out of any ſpirit of envie at their
+parts, be they never ſo great. I can ſay (I truſt) with Moſes and in
+the ſpirit of Moſes, that is in the ſpirit of meekneſſe, <hi>Would
+God that all the Lords people were prophets; and that the Lord would put his
+ſpirit upon them.</hi>
+               <note place="margin">Numb. 11.29.</note> But we muſt
+give God leave to be the Orderer of his own Ordinances; who being the <hi>God
+of order,</hi>
+               <note place="margin">1. Cor. 14.33.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> will doubtleſſe
+revenge the con<g ref="char:EOLhyphen"/>temptuous breach of order. And we muſt take leave to call
+upon men to keep their callings, <hi>Not to touch the mount leſt they
+die.</hi>
+               <note place="margin">Exod. 19.12.</note> 
+               <hi>Quam quiſque norit
+artem:</hi> In the fear of God, let every man hold him to his trade.
+<hi>Né ſutor ultra crepidam:</hi> Let not a taylour inſtead of a
+gar<g ref="char:EOLhyphen"/>ment cut out a Text; and it may be with ſome ſtolen ſhreds patch up a
+Sermon. Let him not miſtake the Lords Board for a ſhopboard. No, let not
+every man as he liſt venter to be a Watchman, or meddle with the Watch<g ref="char:EOLhyphen"/>mans
+charge. Surely if this be ſuffered, we ſhall all ſuffer; God will never
+take it at our hands. He quarrelled once that the <hi>meaneſt or loweſt of
+the people</hi> were made Prieſts by Jeroboam,<note place="margin">1 Kings
+12.31.</note> though the truth is that ſervice was onely for calves, at the
+beſt but <hi>golden calves:</hi> what is it then for the meaneſt of the
+people to make themſelves mini<g ref="char:EOLhyphen"/>ſters of God? Nay, not themſelves neither:
+Miniſters of God they will be, yet neither ſo made by God nor man: It is
+eaſie then to gueſſe from whence they come, and by what ſpirit they are
+led. Theſe are not <hi>Vigiles</hi> but <hi>Noctambulones:</hi> Theſe are
+diſturbers of the Watch, not Watchmen: Theſe are not led by the ſpirit,
+but ſcared with ſprites. Like
+<note place="margin">Acts 19.13,14.</note>
+               <hi>the ſeven ſonnes of
+one Sceva a vaga<g ref="char:EOLhyphen"/>bond <pb n="13" facs="tcp:112862:9"/>Jew,</hi> that without commiſſion
+would needs conjure out evil ſpirits in the name of Jeſus. Such there are
+ſtill amongſt us of a vagabond and Jewiſh brood. <hi>Seven ſonnes;</hi>
+I am ſory that generation was ſo fruitfull. It may be the ſuperſtitious
+Jews thought the ſeventh ſonne at leaſt would do miracles, and caſt out
+Devils: But you know what happened, <hi>The evil ſpirit anſwered and
+ſaid, Jeſus I know, and Paul I know, ſed qui vos? but who are ye? and the
+man in whom the ſpirit was leaped upon them, and overcame them, and prevailed
+againſt them.</hi>
+               <note place="margin">Acts 19.15.</note> 
+               <hi>Jeſus I know,
+and Paul I know:</hi>
+               <note place="margin">Heb. 5.5. Acts 9.4.</note> Jeſus was called of
+his Father; and Paul of Jeſus; both theſe had their war<g ref="char:EOLhyphen"/>rantable callings,
+you ſee the devil himſelf could not de<g ref="char:EOLhyphen"/>nie it. <hi>Sed qui vos? Who are
+ye?</hi> ye that have no calling; ye that pretend the ſpirit of Jeſus
+againſt the ordinance of Jeſus. O take heed leſt the evil ſpirit, which
+you would ſeem to caſt out, do not <hi>ipſo facto,</hi> even by this very
+means, enter into you, overcome you, and prevail againſt you. Our Watchman
+here, as you may be aſſured from the preſident in this chapter at the 5.
+verſe, hath a good commiſſion for his charge; even a commiſſion to
+the ſame which we lay claim to; <hi>Prepare a table, Watch in the
+Watch-tower.</hi>
+               <note place="margin">Iſa. 21.5.</note> The <hi>Pulpit,</hi>
+that is our <hi>Watch-tower;</hi> The <hi>Lords Supper,</hi> that is our
+<hi>Table;</hi> The officiating at theſe is ours, and we lay claim to it;
+<hi>procul, procul eſte profa<g ref="char:EOLhyphen"/>ni.</hi> For others, <hi>quoad hoc,</hi> hands
+off. If they will ſtill preſumptuouſly ruſh upon God, and his holy
+ordinances; If they (which I beſeech God to ſtop, I ſay if they) with<g ref="char:EOLhyphen"/>out
+a warrant will ſtill <hi>prepare the Table,</hi> and <hi>watch in the
+Watch-tower,</hi> I muſt go on with the reſt of that verſe, <hi>Ariſe
+ye Princes, and anoint the ſhield.</hi>
+               <note place="margin">Iſa. 21.5.</note>
+Let law<g ref="char:EOLhyphen"/>full authoritie force them to the obedience of the law of Chriſt.
+This is the <hi>Watchmans charge, For thus ſaith the Lord, Go ſet
+a Watchman.</hi>
+               <note place="margin">Iſa. 21.6.</note> But then what follows?
+<hi>Let him declare what he ſeeth.</hi> The Watchman that is ſet, he muſt
+<hi>declare;</hi> and ſo doth our Watchman in the Text. He was a
+<hi>Watchman,</hi> that was his Charge; But <pb n="14" facs="tcp:112862:10"/>
+               <hi>The
+Watchman ſaid, Cuſtos dixit,</hi> That is his <hi>Diſ<g ref="char:EOLhyphen"/>charge,</hi> and
+our ſecond particular.</p>
+            <p>His Diſcharge, <hi>Dixit, He ſaid;</hi> So he Doth; and ſo
+he ought to do. <hi>Go ſet a Watchman, ſaith the Lord, and let him declare
+what he ſeeth.</hi> So then to make up this full diſcharge, <hi>The
+Watchman muſt ſee, He muſt declare,</hi> and <hi>He muſt declare what
+he ſeeth,</hi> and all is implyed in this <hi>He ſaid.</hi> He muſt
+<hi>See,</hi> Away then with all blind, igno<g ref="char:EOLhyphen"/>rant, and unlearned Watchmen that
+cannot ſee. He muſt <hi>Declare,</hi> Away then with all dumbe, idle, and
+ſlothfull Watchmen that will not ſay. He muſt <hi>Declare what he
+ſees,</hi> Away then with all falſe, all flattering, and treache<g ref="char:EOLhyphen"/>rous
+Watchmen, that ſee one thing, but ſay another.</p>
+            <p>Our Watchman muſt firſt <hi>ſee,</hi> or elſe (the truth
+is) he cannot <hi>ſay:</hi> He is a madman that truſts a blind man to be a
+watchman. A miniſter of Chriſt muſt not be ignorant of the myſteries of
+Chriſt; nor of thoſe Arts and Sciences, of thoſe tongues and languages
+that are now required thereunto. <hi>If the blind lead the blind,</hi> you know
+what becomes of both. The Prophets were of old called <hi>Seers,</hi> and
+<hi>ſpeculatores,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">1. Sam. 9.9.</note> Then they muſt
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yea and (as their place may be)
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; not onely <hi>See,</hi> but
+<hi>Overſee,</hi> that is rule and govern. It is required there ſhould be
+an order even among the Watchmen, or elſe the Watchmen will ſoon be out of
+order. Jer. 37.13. we find a Captain of the Watch;<note place="margin">Jer.
+37.13.</note> and <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the
+Captain of the Temple,</hi>
+               <note place="margin">Acts 4.1.</note> that is, of the
+watch of the Tem<g ref="char:EOLhyphen"/>ple, as appears by S. Matthew.<note place="margin">Matth.
+17.65.</note> And this Captain and his watch had their Watch-tower too, even
+<hi>Turrem Antoni<g ref="char:EOLhyphen"/>am,</hi>
+               <note place="margin">Joſeph. antiq. 18.16.</note> the
+Turret next the Temple, where the robes of the High Prieſt were kept, which
+was called the Tower of Anthony. And in the fettled government of Gods Church,
+both before and ever ſince our Saviours and his Apoſtles times, in the time
+of the Law and the Goſpel, it cannot be denied but as there was a Watch, ſo
+in that Watch there was an order: Prieſts and chief Prieſts,
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Biſhops chait it is
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Watchmans
+<pb n="15" facs="tcp:112862:10"/>Tower, <hi>Specula</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Firſt, a Tower <hi>for
+ſtrength</hi> a<g ref="char:EOLhyphen"/>gainſt the adverſary. Who, that pretends to learning,
+dare gainſay that in all former ages the famous Biſhops have been the
+bulwarks of the Church of God; bleſſed Mar<g ref="char:EOLhyphen"/>tyrs, holy Confeſſours, and
+the profoundeſt Doctours. Witneſſe their laſting monuments which
+ſhall outlive both time and envie.
+<note n="*" place="margin">
+                  <hi>Ideo altior lo<g ref="char:EOLhyphen"/>cus poſitus eſt
+E<g ref="char:EOLhyphen"/>piſcopis, ut ipſi ſuperintendant &amp; tanquam cu<g ref="char:EOLhyphen"/>ſtodiant
+popu<g ref="char:EOLhyphen"/>lum,</hi> Aug. in Pſal. 126.</note> Secondly, a Tower <hi>for
+eminency.</hi> It is moſt requiſite that he who muſt ſee farre,
+ſhould be placed high; the advantage of the place doth help the ſight. God
+hath ſet the eyes which are, ſaith the <hi>Ora<g ref="char:EOLhyphen"/>tour, tanquam
+ſpeculatores in corpore,</hi>
+               <note n="*" place="margin">Cicero lib. 2. de
+natura Deor.</note> the bodies watch<g ref="char:EOLhyphen"/>men, not in the feet or any of the lower
+members, but in the head, <hi>in capite tanquam in Capitolio,</hi> in the
+Turret of the head. <hi>Qui Eccleſiae praeſides corporis Chriſties
+ocu<g ref="char:EOLhyphen"/>lus,</hi> ſaith <hi>Origen.</hi>
+               <note place="margin">Hom. 7. in
+Joſ.</note> Since then the Biſhop is the Churches eye, we may well afford
+him the eminency and honour of his chair. Yea, and a <hi>correſpondency of
+means withall:</hi> ſince he is in a ſpeciall manner to <hi>Watch;</hi> Let
+me uſe ſtill the words of the Prophet, <hi>Prepare a Table that he may
+watch in the watch-tower.</hi>
+               <note place="margin">I ſaiah 21.5.</note> Since
+he muſt <hi>watch,</hi> you muſt not make him <hi>faſt</hi> too; take
+away his means: that would be too much; this is to make him not ſtand as a
+<hi>Watchman,</hi> but to lie <hi>perdieu.</hi> No; <hi>prepare a table,</hi>
+and then on Gods name let him <hi>watch in the watch tower,</hi> that is, not
+onely ſee but <hi>ſay:</hi> The ſecond branch.</p>
+            <p>That is <hi>Preach:</hi> For I would not be miſtaken: I
+con<g ref="char:EOLhyphen"/>feſſe I reverence the Order, for the Antiquity, Univerſali<g ref="char:EOLhyphen"/>tie, and
+(where it is rightly ordered) the great Conve<g ref="char:EOLhyphen"/>niency of it; but I come no
+Advocate for pompous igno<g ref="char:EOLhyphen"/>rance, or learned ſilence. This particular
+propheſie, in the verſe before the Text, is called (ye know) <hi>The burden
+of Dumah,</hi> and Dumah from <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+(from whence perhaps our Engliſh <hi>dumbe</hi> doth come) is
+<hi>ſilentium,</hi> ſilence.
+<note place="margin">
+                  <hi>Duma vel ſimili<g ref="char:EOLhyphen"/>tudinem vel ſi<g ref="char:EOLhyphen"/>lentium
+ſonat,</hi> Hieron. in locum.</note> 
+               <hi>Du<g ref="char:EOLhyphen"/>mah interpretatur
+ſilentium,</hi> ſaith S. <hi>Bernard;</hi> then ſurely to an idle
+ſilence (whereſoever it is found) there doth be<g ref="char:EOLhyphen"/>long a burden, a heavy
+judgement is threatned from the mouth of God. Neither our Watchmans ſeeing
+nor his <pb n="16" facs="tcp:112862:11"/>overſeeing muſt ſtop his ſaying. Let the
+Watchman have his Watch-tower; but let not that tower be ſo high that his
+voice may not be heard below; Prepare him a table, but let not <hi>his table be
+made a ſnare unto him,</hi> to ſtop his breath. God as he hath placed the
+eyes in the head, ſo the tongue too. The Biſhops chair is not a chair of
+ſtate or chair of eaſe. S. Pauls
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">1. Tim.
+3.2.</note> muſt be <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; His chair
+is then <hi>Cathedra doctoralis,</hi> it is the chair of Moſes; and thence
+they are to teach and preach, even by their ex<g ref="char:EOLhyphen"/>ample to encourage preachers, to
+preach up preaching. <hi>Praedicatio praecipuum munus Epiſcoporum,</hi> The
+very Councel of Trent determines it;<note place="margin">Seſſ 5.10.2.</note>
+Preaching is the chiefeſt flower in the Biſhops garden. An unpreaching
+Biſhop is an Idole in the Church, That <hi>hath eyes and ſees not;</hi> at
+leaſt, <hi>he hath a mouth and ſpeaks not.</hi> It was a fearfull
+complaint, that of S. <hi>Gregory</hi> of his times, <hi>Ad exteri<g ref="char:EOLhyphen"/>ora negotia
+delapſi ſumus, &amp; aliud ex honore ſuſcipimus, atque aliud ex officio
+actionis exhibemus. Miniſterium praedicationis relinquimus, &amp; ad poenam
+noſtram ut video Epiſcopi vocamur, qui honoris nomen, non virtutis
+tene<g ref="char:EOLhyphen"/>mus.</hi>
+               <note place="margin">Greg. Hom. 17. in Ev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng.</note> I will not engliſh it. But if we ſtop our
+mouths, it is no marvell if the people open theirs. When the watchmen were
+aſleep (you know the ſtory)<note place="margin">
+                  <hi>Anſeres clangore &amp;
+alarum crepi<g ref="char:EOLhyphen"/>tu M. Manlium excitarunt.</hi> Liv. Dec. 1. lib. 5.</note>
+               <hi>etiam ſtri<g ref="char:EOLhyphen"/>derunt anſeres,</hi> the geeſe once gagled to ſave the
+Capitol. The onely way to ſtop their clamours, is to uſe our own.
+<hi>Clama, nè ceſſes; Cry aloud and ſpare not, lift up
+thy voice like a trumpet.</hi>
+               <note place="margin">Iſaiah 58.1.</note> This
+voice will drown their cries: It is not all the learning in thy brain will do
+it, <hi>Scire tuum ni<g ref="char:EOLhyphen"/>hil eſt.</hi>
+               <note place="margin">Perſ.</note> It
+muſt be thy learning in thy tongue, <hi>The Lord hath given me the Tongue of
+the learned.</hi>
+               <note place="margin">Iſaiah 50.4.</note> It is <hi>the
+Prieſts lips,</hi> and not his head, <hi>that muſt preſerve knowledge,
+and the people ſeek the Law at his mouth.</hi>
+               <note place="margin">Mal.
+2.7.</note> Good <hi>Zachary</hi> in<g ref="char:EOLhyphen"/>deed though a Prieſt was dumbe;<note place="margin">Luke 1.22.</note> but when his tongue could not, his pen did
+ſpeak; He <hi>made ſignes for his wri<g ref="char:EOLhyphen"/>ting-tables.</hi>
+               <note place="margin">Luke 1.62,63.</note> In that caſe his pen may be his tongue, but
+otherwiſe his tongue, like Davids, muſt be his pen; <hi>My tongue is the
+pen of a ready writer.</hi>
+               <note place="margin">Pſal. 45.2.</note> They ſay
+in the fa<g ref="char:EOLhyphen"/>ble <pb n="17" facs="tcp:112862:11"/>that when Argus was ſet a watch to Io,
+Mercury the feigned Deity of eloquence did charm him:<note place="margin">Ovid.</note> Our Watch<g ref="char:EOLhyphen"/>man muſt have the eyes of Argus, ſaith
+<hi>Hector Pintus,</hi>
+               <note place="margin">In Iſai<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> and the tongue of Mercury. He
+muſt open the <hi>doore</hi> of utterance by the <hi>key</hi> of knowledge;
+He muſt both ſee, and ſay, yea and <hi>ſay what he ſeeth.</hi> That
+is the third branch.</p>
+            <p>Otherwiſe he is but a treacherous Watchman, a falſe and lying
+Prophet. A Prophet, a true Miniſter of the Goſpel (whatſoever the world
+now thinketh) is an Angel of light, an Herauld of heaven, an Embaſſadour of
+God. Eſpecially an ancient and Reverend Father of the Church; he is the head,
+<hi>The ancient and honourable he is the head.</hi>
+               <note place="margin">Iſaiah
+9 15.</note> But on the contrary, a lying, a flattering and ſeducing Prophet,
+he is the tayl, <hi>The Prophet that telleth lyes he is the tayl:</hi> (what
+more baſe?) <hi>Metaphora à canibus &amp; ſerpentibus ducta; qui
+caudâ blandientes ſenſim illabun<g ref="char:EOLhyphen"/>tur &amp; venenum evomunt.</hi>
+               <note place="margin">Cor. in locum.</note> O take heed of theſe, the poyſon of
+aſps is under their lips, and the ſting of death is in their tayls.
+<hi>Theſe leaders of the people cauſe them to erre; and they that are led
+of them are deſtroyed.</hi>
+               <note place="margin">Iſaiah 9.16.</note> Such are
+Romes Scouts, their Emiſſaries, their Spies, even treacherous Watchmen; who
+hold out <hi>falſe fires</hi> to poore ſtraying ſouls, and give
+<hi>falſe alarums</hi> to frighted conſci<g ref="char:EOLhyphen"/>ences. You know who it is that is
+<hi>a lying ſpirit in the mouth of the Prophets.</hi>
+               <note place="margin">2.
+Chron. 18.21.</note> As for us, we have our <hi>light</hi> too and our
+<hi>alarum,</hi> even Gods word and the true preaching of that word: <hi>We
+have alſo a more ſure word of prophe<g ref="char:EOLhyphen"/>ſie, whereunto ye do well that ye
+take heed, as unto a light that ſhineth in a dark place.</hi>
+               <note place="margin">2. Pet. 1.19.</note> But with the word muſt go the alarum. The
+faithfull Belman, the walking Watch<g ref="char:EOLhyphen"/>man of the night, commonly is furniſhed
+not onely with his lantern, but his bell: A Miniſter of Gods Church, he
+muſt have his lantern; Not one borrowed from Faux, not Romes lantern, not a
+dark one, the lantern of hu<g ref="char:EOLhyphen"/>mane Traditions, by which they can turn the light
+of Do<g ref="char:EOLhyphen"/>ctrine which way they pleaſe; no <hi>Judas lantern</hi>
+               <note place="margin">John 18.3.</note> to betray <pb n="18" facs="tcp:112862:12"/>Gods truth; but
+<hi>Davids lantern,</hi> the written word of God: <hi>Thy word</hi> (ſaith
+David) <hi>is a lantern unto my feet, and a light unto my paths.</hi> But as he
+muſt have <hi>Davids lantern,</hi> ſo he muſt have <hi>Aarons bells.</hi>
+We hardly think a Churchman poſſeſſed till he have rung his bells: That
+is but a ſuppoſed Ceremonie at his entrance; but the ring<g ref="char:EOLhyphen"/>ing of this bell,
+the conſtant and faithfull preaching of the true word of God, is the main
+ſubſtance of our per<g ref="char:EOLhyphen"/>formance. By this he rings all in; he rings the truth
+of Chriſt into the peoples eares and hearts; he rings both himſelf and all
+his auditours into heaven. <hi>Take heed to thy ſelf, and to thy doctrine;
+continue in them; for in do<g ref="char:EOLhyphen"/>ing this thou ſhalt ſave thy ſelf, and them
+that heare thee.</hi>
+               <note place="margin">1. Tim. 4.16.</note> 
+               <hi>Bleſſed
+are thoſe watchmen whom the Lord when he cometh ſhall find thus watching.
+If he ſhall come in the ſecond watch or in the third watch, bleſſed are
+thoſe ſervants.</hi>
+               <note place="margin">Luke 12.37,38.</note> And ſuch we
+may ſuppoſe was the Watchman of the Text, a <hi>ſeeing, ſaying,
+faithfull</hi> Watchman. As it ſeemeth, he did not onely <hi>vigilare,</hi>
+but <hi>excubias agere,</hi> he kept both watch and ward; like Jacob, he
+watched his flock both day and night.<note place="margin">Gen. 31.40.</note> The
+<hi>Watchword</hi> doth import no leſſe: Here are tidings of the
+<hi>Morning,</hi> and tidings of the <hi>Night; The morning cometh and alſo
+the night.</hi> Like the vigilant and ſpritefull cock (the native watch<g ref="char:EOLhyphen"/>man
+of the houſe) he no ſooner perceiveth the morning dawn, but falls a
+crowing. Nay, like S. Peters cock,<note place="margin">Matth. 26.75.</note> he
+croweth, and crieth for our repentant tears; To <hi>Inquire,</hi> to
+<hi>Return,</hi> to <hi>Come;</hi> That is the note; <hi>The Watchman ſaid,
+The morning cometh and alſo the night: If ye will inquire, inquire; Return,
+Come.</hi>
+            </p>
+            <p>And now it is high time to diſmiſſe our <hi>Watchman,</hi>
+and our firſt generall with him. The ſecond followeth, and that is the
+<hi>Watchword,</hi> all tending to repentance, but it is partly
+<hi>Monitory,</hi> and partly <hi>Directory.</hi> VVe begin with the firſt,
+the Doctrine or Monition, <hi>Venit mane, The Morning cometh and alſo the
+Night.</hi>
+            </p>
+            <p>Which in a twofold ſenſe gives us a twofold motive to
+<pb n="19" facs="tcp:112862:12"/>Repentance. VVe may take the words <hi>Naturally</hi> and
+<hi>Morally. Naturally, The Morning cometh and alſo the Night;</hi> that is,
+our time is fleeting, and our whole life is fading, the Morning of our life
+doth paſſe, our Night of death draweth on, therefore Repent. Secondly
+Mo<g ref="char:EOLhyphen"/>rally, The Morning of proſperity and of Gods mercies, that comes; The
+Night of adverſitie and Gods temporall judgements, that cometh. Since
+therefore we are thus ſummoned both by the voice of Mercy, and the voice of
+Judgement, therefore Repent.</p>
+            <p>Firſt <hi>Naturally,</hi> Repent, becauſe our time
+paſſeth, our life fadeth, and our death approacheth. Our Saviour ſaid it
+of himſelf, <hi>I muſt work the works of him that ſent me while it is
+day, the Night cometh when no man can work.</hi>
+               <note place="margin">John
+9.4.</note> 
+               <hi>While it is day,</hi> that is,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith S.
+Chry<g ref="char:EOLhyphen"/>ſoſtome,<note place="margin">Chryſoſt. in locum.</note> 
+               <hi>while
+life doth last; Quamdin vita ſuppetit, Dies eſt, poſt mortem
+Nox:</hi>
+               <note place="margin">Bar.</note> Our life is a Day, and our death a
+Night; a long night after a ſhort winters day. If we neglect to work this
+Day, what followeth? <hi>Nox eſt perpetua una dormienda;</hi>
+               <note place="margin">Catul.</note> a diſmall and an eternall night. We fool away our
+time, (God knows) our pre<g ref="char:EOLhyphen"/>tious time either in not working, or in not working
+the works of him that ſent us; in works of vanitie, works of curioſitie,
+nay works of iniquitie. A Heathen could com<g ref="char:EOLhyphen"/>plain of this, <hi>Magna pars vitae
+elabitur malè agentibus; maxima, nihil agentibus; tota, aliud
+agentibus.</hi>
+               <note place="margin">Senec, ep. 1. ad Lucil.</note> But we
+Chriſtians practice it. How many of us ſpend the choice of our dear time in
+trickings and trimmings, in tirings and dreſſings? <hi>Dum moliuntur, dum
+comuntur annus eſt.</hi>
+               <note place="margin">Tere<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> I dare ſay the morning is gone before many of
+us know it is come; at leaſt by any ſerious work that we have done therein.
+And be there not that ſpend their Nights in revellings and riotings? O little
+do they think of that approaching night of death; that ſerious thought would
+damp their ſport and ſpoil their play. How many are there of us that can
+ſpend an age in courting of ſome fair face, ſome beauty of the times, and
+think of no other <pb n="20" facs="tcp:112862:13"/>heaven then the fruition of our Miſtris
+favour; and her ſmile the onely viſion beatificall. Why alas, vain man,
+death is courting that face as well as thou; and oftentimes he proves the more
+ſucceſſefull, or at leaſt the more re<g ref="char:EOLhyphen"/>vengefull rivall. In the heat of
+all thy purſuit, he either takes her from thee, or thee from her, and ſends
+ye to an<g ref="char:EOLhyphen"/>other world, there to embrace; but what? eternall flames. Again, he
+ſaith it in the Comedie, <hi>Sic vita eſt hominum ac ſi ludas
+teſſeris,</hi>
+               <note place="margin">Terent.</note> The life of man is even as
+a game at Cheſſe or Tables. Many of us indeed make it ſo without a trope
+or figure. We ſpend our life, whole dayes and nights, even our beſt houres,
+at Cards, or Tables, or ſome ſuch idle exerciſe; <hi>We ſit down to eat
+and to drink, and riſe up to play.</hi>
+               <note place="margin">Exod. 32.6.</note>
+There is the model of our Gallants life; the <hi>ſumma totalis</hi> of his
+time laid out. I do not ſay that all games or playing are in themſelves
+unlawfull. No, but this I ſay, At the beſt they are no otherwiſe lawfull
+then as recreations; to which he hath no right which hath not firſt
+ſeriouſly imployed himſelf in his Vocation: He hath no right to play,
+that doth refuſe to work. In what condition then are they who ſcorn the
+very name of a Vo<g ref="char:EOLhyphen"/>cation? no, they would have you know, they are better born
+then ſo, to follow a Vocation and be bound to work. They have no other
+buſineſſe but to enjoy their pleaſure,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">2. Tim. 3
+4.</note> Was this the end that God ſent thee forth into the world? Doth God
+imploy us here as <hi>Claudius</hi> did his ſouldiers to gather cockles? Or
+will it be our laſt account, How many games we have played, or ſets we have
+wonne? Wonne? There will appear but little winning then, I fear. He that in
+ſuch ſad times as theſe hath loſt an houre at play, though haply he
+hath wonne a pound, nay hundreds of pounds, may put all his winnings in his
+eye; and ſo he muſt, and weep them out. Would we ſpend our time thus, if
+we knew our time to be ſo ſhort, and our work ſo ſerious as Repentance
+is?
+<note place="margin">
+                  <hi>Dies brevis, opus multum, opera<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pigri,</hi> Rabbi Simeon.</note> That
+is the work of him that ſent us. <hi>Tertullian</hi> ſaid it of
+himſelf,<note place="margin">Tertul. lib. de poen.</note> I ſay it of us all,
+<hi>Omnium notarum peccatores, <pb n="21" facs="tcp:112862:13"/>nec ullae rei quàm
+poenitentiae nati ſumus.</hi> We are born for this, and onely this.
+<note place="margin">Plin. lib. 7. cap. 1.</note> We come into the
+world with tears; though our tongues cannot ſpeak, yet our eyes ſoon tell
+our errand. But we no ſooner grow up to that which we miſcall yeares of
+diſcretion, but (like Idiots) we preſently forget the errand for which we
+are ſent. No, it is true our lives are ſhort; I know nothing ſhorter, but
+one, and that is our wits and memories. <hi>Ars longa, vita brevis,</hi> ſaid
+Theophraſtus:<note place="margin">Theophraſt.</note> Give me leave to ſay,
+<hi>Vita brevis est ars longa:</hi> It is one of the hardeſt leſ<g ref="char:EOLhyphen"/>ſons,
+and we are longeſt in learning it, To know that our lives are ſhort. Every
+man almoſt would be a <hi>Macrobi<g ref="char:EOLhyphen"/>us,</hi> and flatters himſelf with the
+hopes of a long life. Why man, thy life (at moſt) is but a day. Be it ſo:
+Yet, <hi>be there not twelve houres in the day?</hi> at leaſt, <hi>quatuor
+inſigniores horae,</hi> as <hi>Tertullian</hi> calls them,<note place="margin">Tertull. de jejun. cap. 10.</note> ſpecially men<g ref="char:EOLhyphen"/>tioned in the
+Goſpel. There is, ſaith <hi>Origen,</hi>
+               <note place="margin">Orig. hem. 10.
+in Matth.</note> 
+               <hi>Hora pueri<g ref="char:EOLhyphen"/>tiae, adoleſcentiae, virilis aetatis, &amp;
+ſenectutis:</hi> A twy<g ref="char:EOLhyphen"/>light of <hi>childhood,</hi> a morning of
+<hi>youth,</hi> a noon of <hi>perfect age,</hi> and an afternoon of <hi>old
+age.</hi> All this before a night of Death: then time enough to repent. Yes;
+but when? Wilt thou begin in thy childhood? What? put a child un<g ref="char:EOLhyphen"/>to ſo
+harſh a maſter, to repentance ſchool?
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That age was made for ſport,
+and not for work; <hi>geſtit paribus colludere.</hi>
+               <note place="margin">Horat.</note> Well, youth is come, ſhall repentance be welcome
+now? By no means; <hi>Re<g ref="char:EOLhyphen"/>joyce O young man in thy youth,</hi> &amp;c.<note place="margin">Eccles 11.9.</note> 
+               <hi>Now let us fill our ſelves with coſtly
+wine and ointments; Let no flower of the ſpring paſſe by us; Let us crown
+our ſelves with roſe buds before they be withered:</hi>
+               <note place="margin">Wiſd. 2 7,8.</note> 
+               <hi>And take our fill of love.</hi>
+               <note place="margin">Prov. 7.18.</note> Shall I poyſon the ſweet flower of my youth
+with that bitter herb of grace, Repentance? No, away Repen<g ref="char:EOLhyphen"/>tance; <hi>Thou
+comeſt to torment me before my time.</hi> By this time thou art become a man,
+what ſayeſt thou to Repentance yet? <hi>Quin importuna abi
+poenitentia;</hi> Un<g ref="char:EOLhyphen"/>mannerly Repentance; I never had more buſineſſe in
+my life;
+<note place="margin">Horat. de art<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>Aetas animúsque virilis Quaerit opes &amp;
+amici<g ref="char:EOLhyphen"/>tias, <pb n="22" facs="tcp:112862:14"/>inſervit honori.</hi> My head is wholly taken
+up with affairs of State; I am raiſing a family; I am contriving to get into
+ſome great Office either in Church or State. When I have got that, it may be
+I ſhall have more leiſure, but certainly more cauſe to repent. Therefore,
+good Repentance, ſpare me for a while, <hi>Go thy way for this time, when I
+have a convenient ſeaſon I will call for thee.</hi> Come to me ſomewhat
+about my Old age. Nay Old age it ſelf will not be old enough, <hi>Nemo tam
+ſenex,</hi> ſaith the Oratour; Age hopes for an Evening even after an
+Afternoon. Thus we poſt off Repentance from day to day, from Age to Age, as
+if it were fit onely for our dotage. Well, I will not ſay that Repentance
+then is ei<g ref="char:EOLhyphen"/>ther impoſſible or unacceptable. But this I'le ſay, he is
+ſtark mad that truſts to that. O it is the moſt Incongru<g ref="char:EOLhyphen"/>ous, moſt
+Difficult, moſt Hazardous thing in all the world. Moſt
+<hi>incongruous:</hi> What? ſing matins to the devil, and even-ſong to God?
+Haſt thou nothing for him but the fag end of a life, the dregges of Age?
+Moſt <hi>Difficult:</hi> Doſt thou think that thou wilt be fit to turn to
+God, when thou canſt ſcarcely turn thee in thy bed? and that ſinne and
+Satan, the ſole companions of thy life, will ſhake hands with thee when
+thou art ſhaking hands with the world? But above all it is moſt
+<hi>hazardous.</hi> Fond men that we are, we talk of a noon, an afternoon, yea
+and an evening too; but my Text hath onely a <hi>morn<g ref="char:EOLhyphen"/>ing</hi> and a
+<hi>night,</hi> to teach us not onely the ſhortneſſe, but withall the
+uncertaintie of life. Thou haſt a Morning now; how ſoon mayeſt thou be
+overtaken with a <hi>Stulte hâc nocte.</hi> God hath not warranted thee
+<hi>a noon of life,</hi> much leſſe <hi>a noon of Grace.</hi> O then take
+heed leſt thou that neglecteſt this morning, beeſt not ſurpriſed by
+night. Be thy age what it will, <hi>haec hora est tua,</hi>
+               <note place="margin">Mart.</note> this houre is thy morning, <hi>Gallicinium:</hi> When
+this Goſpel ſounds the cock doth crow; the next houre for ought thou
+know<g ref="char:EOLhyphen"/>eſt may be <hi>Conticinium,</hi> the dead of night; and thou heare no
+other muſick but the ſcrichowls note. <hi>Lord <pb n="23" facs="tcp:112862:14"/>teach
+us</hi> therefore <hi>ſo to number our dayes, that we may ap<g ref="char:EOLhyphen"/>ply our hearts
+to wiſdome:</hi>
+               <note place="margin">Pſal. 90.12.</note> And our wiſdome is
+not <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is not Providence, but
+Repentance. Let us therefore repent, for our life paſſeth, our death
+ap<g ref="char:EOLhyphen"/>proacheth; <hi>The Morning cometh and alſo the Night:</hi> That is the
+firſt motive from the words taken Naturally.</p>
+            <p>Secondly, Morally. <hi>The Morning of Proſperitie</hi> and of
+Gods mercie, that comes: <hi>The Night of Adver<g ref="char:EOLhyphen"/>ſitie</hi> and of Gods
+temporall judgements, that comes; Therefore Repent. <hi>Per</hi> MANE
+<hi>praeſentis vitae proſperit as deſignatur,</hi> ſaith S.
+<hi>Gregorie.</hi>
+               <note place="margin">Moral. 16. cap. 27.</note>
+               <note place="margin">
+                  <hi>In proſperis &amp; in adverſis, hoc
+eſt in die ac no<g ref="char:EOLhyphen"/>cte.</hi> Hieron in locum.</note> Every of Gods ſeverall
+bleſſings which he beſtows on any of us in this life, as Health, or
+Wealth, or Peace, or the enjoyment of his Word and Ordinances, they are a kind
+of <hi>Morning</hi> to a Chriſtian: They bring light to his eyes, heat to his
+heart, they help to chear his ſpirits and to warm his bloud;
+<hi>Heavineſſe may endure for a night, but joy co<g ref="char:EOLhyphen"/>meth in the
+morning.</hi>
+               <note place="margin">Pſal. 30.5.</note> Yet the truth is, there is
+none, no not all of theſe are <hi>more then a Morning:</hi> no bleſſing
+of this life can ſhine forth unto a <hi>perfect day;</hi> their light is
+never full, and often changing, ever in danger of a night. No, the perfect day
+is onely the bliſſe of heaven; <hi>Lux haec perpetua eſt, &amp; ſine
+nocte dies.</hi> All the beſt dayes of this life put together make but a
+Chriſtians morning. Yet there is none of theſe morning rayes but ſhould
+cauſe <hi>rorem matutinum,</hi> a morning dew upon our ſouls. Look how the
+lowly earth, when the early ſunne ſalutes it firſt, ſends forth her
+vapours and exhalations towards heaven; as it were in a due acknowledgement of
+her own baſe<g ref="char:EOLhyphen"/>neſſe in her ſelf, and in a reall thankfulneſſe for
+thoſe rayes of light: juſt ſo the humble ſoul, when it conſiders the
+undeſerved bleſſings and mercies, of what kind ſoever, that God
+vouchſafeth unto it, cannot forbear to ſend forth ſome ſighs and groans
+towards heaven. Lord I am a ſin<g ref="char:EOLhyphen"/>full and a wretched creature, I was born in
+ſinne and ſtill live in it; as thou haſt added dayes unto my life, ſo
+have I each day added ſinnes to ſinnes; and yet behold <pb n="24" facs="tcp:112862:15"/>thou ſtill doſt viſit me, even every <hi>morning,</hi> with thy
+lo<g ref="char:EOLhyphen"/>ving kindneſſe. O adde this bleſſing to all the reſt, give me an
+heart truly ſenſible of thy goodneſſe, and my own unworthineſſe; O
+let me ſpend my ſelf in heavenly ſighs and groans; O let thy grace bedew
+my ſoul; O let me melt into repentant tears; O let me live no longer in the
+fog of my old ſinnes. <hi>The night is farre ſpent, the day is come, let us
+walk therefore as children of the light.</hi>
+               <note place="margin">1. Theſſ.
+5.5.</note> God in this morning hath ſent thee a ray of health, thou haſt
+an able bodie, a firm and chearfull conſtitution: take heed thou doſt not
+abuſe that health to riot and intemperance, to ſurfeting and
+drunkenneſſe, to luſt and laſciviouſneſſe; if thou doſt, thou
+cloudeſt thy morning. God in this morning hath ſent unto another a ray of
+wealth, thou haſt riches in abundance: O then abuſe not thy wealth to pride
+and vanitie, to avarice or worldlineſſe; if thou doſt, thou cloudeſt
+thy morning. God in this morning hath ſent to others a ray of peace, they
+ſit with quiet under their own vine and figtree: O then abuſe not this
+peace to idleneſſe and ſecurity, be not ſenſeleſſe of thy poore
+bre<g ref="char:EOLhyphen"/>threns miſery. Wo be to <hi>them that lie upon their beds of Ivorie, and
+ſtretch themſelves upon their couches, and eat the lambs out of the flock,
+and the calves out of the midſt of the ſtall; That chaunt to the ſound of
+the viol, and invent to themſelves inſtruments of muſick; That drink wine
+in bowls, and anoint themſelves with the chief ointments; but they are not
+grieved for the affli<g ref="char:EOLhyphen"/>ction of Joſeph.</hi>
+               <note place="margin">Amos
+6.4.</note> What is this but to cloud thy morning? Above all, God ſends unto
+us the ſunſhine of his Goſpel, the light of his heavenly truth: O let us
+not ſhut our eyes againſt that light, and turn our backs upon it; O let us
+not <hi>loath our manna,</hi> and <hi>look back to Egypt;</hi> when <hi>light
+is come into the world, let us not love darkneſſe more then light:</hi>
+               <note place="margin">Heredian. lib. 4. Plato 10. de Leg.</note> But
+as the Perſians, Parthians, and other heathens were wont every morning to
+adore the Sunne: ſo let us look to our God through every ſeverall
+bleſ<g ref="char:EOLhyphen"/>ſing; every morning ſalute <hi>the ſunne of
+Righteouſneſſe:</hi> 
+               <pb n="25" facs="tcp:112862:15"/>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Rhodiginus lib. 15.</note> the
+Grecians were wont to ſay at every ap<g ref="char:EOLhyphen"/>proach of light; then let every ray of
+Gods gracious light, every bleſſing direct thine eyes upward, even to
+<hi>the Father of lights, from whom comes every good and per<g ref="char:EOLhyphen"/>fect
+gift.</hi>
+               <note place="margin">James 1.17.</note> Eſpecially thoſe whom God
+hath encompaſſed with his bleſſings; eſpecially that Nation which
+above all others under heaven hath enjoyed health, and wealth, and peace, and
+truth, and all together; thoſe to whom God hath given both <hi>the dew of
+heaven, and the fatneſſe of the earth, the bleſſings of the right hand,
+and of the left</hi> too. When Gods countenance ſhines not onely on our
+ſouls, but even on our bodies and our eſtates withall; O ſurely this is a
+pleaſant Morning; When the light of Gods favour does not onely appear bright
+in heaven, but even gilds our very earth; When with the Goſpel we enjoy all
+beſides; VVhen, as <hi>the voice of the turtle is heard in our
+land,</hi>
+               <note place="margin">Cant. 2.12.</note> ſo <hi>the voice of joy and
+health is in our dwellings;</hi> Cùm prata rident, <hi>When our valleys
+do ſtand ſo thick with corn, that they even laugh and ſing;</hi>
+               <note place="margin">Pſal. 118.15.</note> Cùm ipſa ſuas mirantur Gargara
+meſſes;<note place="margin">Virg.</note> 
+               <hi>when our garners be full and
+plenteous with all manner of ſtore; when our ſheep bring forth thouſands,
+and ten thouſands in our ſtreets; when our oxen be ſtrong to labour, and
+there is no decay, no leading into captivitie, and no complaining in our
+ſtreets;</hi>
+               <note place="margin">Pſal. 144.13.</note> O this ſurely is a
+gladſome Morning; <hi>Jane clarum mane fenestras Intrat &amp; anguſtas
+extendit lumine rimas. Stertimus?</hi>
+               <note place="margin">Perſ. Sat. 3.</note>
+O me thinks this Morning ſhould invite even a drowſie ſoul to riſe; to
+ariſe in thankfulneſſe toward heaven. When our God appears to us, not as
+the Poets <hi>Jupiter</hi> to <hi>Semele,</hi>
+               <note place="margin">Ovid.</note>
+but as to <hi>Danae;</hi> not in a crack of thunder, but in a ſhowre of gold:
+when God ſpeaks to us, not <hi>out of a whirlwind,</hi> as to Job of
+old,<note place="margin">Job 38.1.</note> and to our neighbour Countreys now of
+late; but as to Eliah, <hi>in a ſtill ſmall voyce;</hi>
+               <note place="margin">1. Kings 19.12.</note> VVhat is all this, but a ſweet wooing of
+us to Repentance? <hi>Suidas</hi> tells us that when the morning rayes, when
+the beams of the riſing ſunne in the morning lighted upon Memnons ſtatue,
+cut out of <pb n="26" facs="tcp:112862:16"/>ſtone in Egypt, the very ſtone did ſpeak,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">Suidas.</note>
+and leſt we ſhould take it for a fable, <hi>Tacitus</hi> affirms as much,
+<hi>Memnonis ſaxea effigies ubi radiis ſolis icta fuerit vocalem ſonum
+reddit;</hi>
+               <note place="margin">Tacit. Annal. 2.</note> there be that adde, that
+this voyce was both a melodious and a dolefull voice, <hi>neſeio quid
+ſonabat lacry<g ref="char:EOLhyphen"/>mabile.</hi>
+               <note place="margin">Nat. Com. Myth. 6.</note> What
+though our hearts be hard? yea, hard as ſtone, <hi>corda lapidea,</hi>
+               <note place="margin">Ezek. 11.19.</note> the Prophet called them ſo, <hi>harder then
+the nether milſtone;</hi>
+               <note place="margin">Job 41.24.</note> yet me thinks
+if there be any thing of Memnons ſtatue, of Chriſts image engraven on them,
+this <hi>morning-light,</hi> the light of Gods countenance, the rayes of ſo
+many bleſſings, which in our Halcyon dayes he hath heaped upon us, ſhould
+even make theſe ſtones to ſpeak, to anſwer him, <hi>aut neſcio quid
+ſonare lacrymabile,</hi> at leaſt, for our not anſwering, to mourn in
+ſighs, and melt into repentant tears. Good <hi>David</hi> his heart even
+melted within him; yea, there was a heart of wax, <hi>My heart in the midſt
+of my body is even like melting wax.</hi>
+               <note place="margin">Pſal.
+22.14.</note> That is a ſweet temper of a heart, when it melts in the
+ſunſhine of Gods favours. But what then is that heart that is hardned by
+them? O ſurely thoſe are <hi>corda lutea, ex meliore,</hi> ſhall I ſay?
+or <hi>ex duriore luto.</hi> It is durt, it is durt that hardens in the
+ſunne. And to be obdurate notwithſtanding ſo many mercies, is
+impeni<g ref="char:EOLhyphen"/>tence died in ingratitude, a ſinne in grain. What is this but <hi>to
+deſpiſe the riches of Gods goodneſſe, and forbea<g ref="char:EOLhyphen"/>rance, and
+long-ſuffering; not knowing that the goodneſſe of God leadeth thee to
+repentance.</hi>
+               <note place="margin">Rom. 2.4.</note> But if thou wilt not lead,
+God will try if thou wilt drive; <hi>Ducunt volentem futa, nolentem
+trahunt:</hi>
+               <note place="margin">Sen. Trag.</note> God hath not a
+<hi>Morning</hi> one<g ref="char:EOLhyphen"/>ly but a <hi>Night</hi> alſo; <hi>The Morning cometh and
+alſo the Night.</hi>
+            </p>
+            <p>The <hi>Night of Adverſitie,</hi> the Night of Judgements. For
+God, as <hi>in the midſt of judgement he remembers mercy,</hi> ſo at the
+end of mercy he remembers judgement. If by the extending of the golden
+ſceptre of his mercy, he cannot reclaim us; then he ſummons as with his
+<pb n="27" facs="tcp:112862:16"/>
+               <hi>Black rod, the Night of judgements</hi> and
+afflictions. It was ingratitude not to liſten to the muſick of his mercy;
+but it is open defiance to ſtand one againſt the thunder of his judgements.
+What is that but <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, giant-like to
+bid battel to the God of heaven? In what caſe are they then that outface
+both? Yet ſuch there be. Thus God ſent Moſes with a meſſage, and
+withall Aaron with a rod to Egypt; and if Pharaoh do ſtill ſtand out, he
+turns that rod into a ſerpent. If his meſſage take not place, God often
+ſends his rod; not onely to his open ene<g ref="char:EOLhyphen"/>mies, but to his diſobedient
+children; not onely unto E<g ref="char:EOLhyphen"/>gypt, but to Iſrael. <hi>If Iſrael break my
+ſtatutes and keep not my commandments, then will I viſit their
+tranſgreſſi<g ref="char:EOLhyphen"/>ons with a rod, and their ſinne with ſcourges.</hi>
+               <note place="margin">Pſal. 89.31.</note> And the Prophet Jeremy ſpeaks it of
+himſelf, <hi>I am the man that have ſeen affliction by the rod of his
+wrath.</hi>
+               <note place="margin">Lam. 3.1.</note> And that rod, it ſeems, was
+the black rod too, for ſo it follows, <hi>He hath led me, and brought me into
+darkneſſe, and not into light.</hi>
+               <note place="margin">Lam. 3.2.</note>
+There be that think that the ſame rod which God imployed in Egypt, he
+afterwards uſed in Iſrael:<note place="margin">Rabbi Simeon apud Galat.
+1.6.</note> and that it is the ſame rod which is ſometimes called in
+Scripture <hi>the rod of Moſes,</hi> ſometimes <hi>the rod of Aaron,</hi>
+ſome<g ref="char:EOLhyphen"/>times, and moſt properly, <hi>the rod of God.</hi> But ſure I am if
+they be divers (whatſoever is become of the rod of Aaron, or of the rod of
+Moſes) the rod of God is not yet loſt. For the <hi>rod of Aaron</hi> the
+Apoſtle tells us that it was laid up in the Ark of the Covenant.<note place="margin">Heb. 9 4.</note> I know that place is much diſputed by reaſon
+that we reade in the Kings, <hi>That there was nothing in the Ark ſave the
+two tables of ſtone.</hi>
+               <note place="margin">1. Kings 8.9.</note> How was the
+rod in the Ark, when there was nothing in the Ark but the tables? Not to
+trou<g ref="char:EOLhyphen"/>ble you with the conjectures of others, I conceive that the Apoſtles
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In which,</hi> relating to
+the Ark, (not to the Tabernacle, as <hi>Ribera</hi> thinks) is as much as
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>toge<g ref="char:EOLhyphen"/>ther with the Ark;</hi>
+or if you will, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>cloſe</hi>
+or <hi>near unto the Ark:</hi> So the Hebrew
+<gap reason="foreign" resp="#OXF" extent="1 letter">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſometimes ta<g ref="char:EOLhyphen"/>ken as well for
+that which is <hi>near</hi> about, as for that which <pb n="28" facs="tcp:112862:17"/>is
+properly <hi>within.</hi> The rod of Aaron then might be ſaid to be <hi>in
+the Ark,</hi> as being near unto the Ark. And ſo the truth is, that in the
+Tabernacle or <hi>Sanctum Sanctorum</hi> there was placed the Ark of the
+Covenant, in which was the Tables, over which was the Oracle and the
+Mercy-ſeat, and before it, or near unto it, was the rod of Aaron.<note place="margin">Maimonid. tom. 3. in Bethhabchi<g ref="char:EOLhyphen"/>rah, cap. 4.</note> For the rod of
+Moſes, <hi>Baronius</hi>
+               <note place="margin">Baron. in anno 1008.</note> tells
+us out of one <hi>Gla<g ref="char:EOLhyphen"/>ber,</hi> that in the yeare 1008, part of that rod was
+miracu<g ref="char:EOLhyphen"/>louſly found in a citie of <hi>France;</hi> and that great
+multi<g ref="char:EOLhyphen"/>tudes, not onely of the French, but out of <hi>Italy</hi> and other
+Nations came to ſee it. I confeſſe this ſounds loud of a legend, with
+which ſtuff thoſe vaſt volumes are extremely furniſhed. But for
+certain, the rod of God is ſtill forth<g ref="char:EOLhyphen"/>coming; God hath laid up his rod
+ſafe, even in his Ta<g ref="char:EOLhyphen"/>bernacle, in his <hi>Sanctum Sanctorum,</hi> not far
+from the Ark, the Oracle, and the Mercy-ſeat: both <hi>France,</hi> and
+<hi>Italy,</hi> yea and <hi>England,</hi> and poore <hi>Ireland</hi> too have
+ſeen this rod, yea and felt it now of late. If any people, though formerly
+never ſo dear unto God, begin once openly to break his Covenant, to
+deſpiſe his Oracles, to neglect his Mercy-ſeat; then let them know, that
+near unto the Ark of the Covenant, the Oracle, and the Mercy-ſeat, God
+ſtill hath his rod, even the rod of Egypt. God hath given unto a Nation the
+bleſſing of Health, <hi>Clementiam coeli, ſalubritatem ſoli;</hi>
+               <note place="margin">
+                  <hi>Regio quocun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> anni tempore temperatiſſima,</hi> Ortel. de
+Anglia.</note> A great bleſſing, a fair Morning! But if that Nation do
+abuſe that health, either to riot and ex<g ref="char:EOLhyphen"/>ceſſe; or elſe to luſt and
+uncleanneſſe; If they be <hi>mighty to drink wine, &amp; men of ſtrength
+to mingle ſtrong drink;</hi>
+               <note place="margin">Iſa. 5.22.</note> If
+<hi>when they are fed to the full they commit adultery; and aſſemble
+themſelves by troups in the harlots houſes; If, as fed horſes in the
+morning, every one neighs after his neighbours wife:</hi>
+               <note place="margin">Jer. 5.7,8.</note> then <hi>Cedo virgam,</hi> ſaith God, give me
+my rod of Egypt, I will ſtretch out my hand and ſmite that people with
+blains and botches, with the pox and purples, yea with the plague and
+peſtilence. And was not this lately even our own caſe? or are we yet quite
+free? Be<g ref="char:EOLhyphen"/>hold your <hi>Morning</hi> turned into a diſmal <hi>Night,</hi> the
+night of ſickneſſe.</p>
+            <p>
+               <pb n="29" facs="tcp:112862:17"/>God hath given a Nation the bleſſing of
+wealth and plentie; we have <hi>ſolum foecundum
+frugiferúmque,</hi>
+               <note place="margin">Ortel. de Angliae.</note> our land
+doth feed us with the <hi>flower of the fineſt wheat;</hi>
+               <note place="margin">Pſal. 81.16.</note> our flocks do clothe us in the ſofteſt
+wools; our Seas bring in the ſpices of Arabia, and the Sabean gummes, the
+gold of Ophir, the pearls and gemmes of India, all the riches of Aſia and
+America pay tribute to the Britiſh Ocean; A great bleſſing, a fair
+Morning! But if thou employeſt this wealth to pride or luxurie; or if thou
+beeſt ſtill thir<g ref="char:EOLhyphen"/>ſty after more, and therefore, forgetting works of
+pietie and works of charitie, hoardeſt up riches <hi>per fas
+nefáſque,</hi> by hook or crook, by right or wrong; <hi>Cedo
+virgam,</hi> ſaith God, give me my rod of Egypt; he <hi>ſtrikes upon the
+duſt of the earth and it turns to lice,</hi>
+               <note place="margin">Exod.
+8.16.</note> to penurie and want; he ſtrikes upon thy eſtate, thy bags, thy
+cofers, and behold all is empty; your trades decay, and ſtock does melt,
+<hi>Ye have put your money into a bag with holes;</hi>
+               <note place="margin">Hag.
+1.6.</note> 
+               <hi>Ye looked for much, and lo, it came to little; and when ye
+brought it home, I did blow upon it.</hi>
+               <note place="margin">Hag. 1.9.</note> Is
+it not our caſe? behold your <hi>Morning</hi> turned into a diſmall
+<hi>Night;</hi> a night of ſcarcitie. God hath given unto a people the
+bleſſing of peace, peace abroad, peace at home, peace in Church, peace in
+State; A great bleſſing, a fair Morning! yet if we abuſe this peace to
+pride, to oppreſſion, to the neglect of our brethren that be in miſerie,
+<hi>Cedo virgam,</hi> ſaith God, give me my rod of Egypt; <hi>God
+ſtretcheth out his hand upon the rivers and turneth the waters into
+bloud:</hi>
+               <note place="margin">Exod. 7.19.</note> 
+               <hi>Make Proclamation, prepare
+warre wake up the migh<g ref="char:EOLhyphen"/>ty men, let all the men of warre draw near; beat the
+plow<g ref="char:EOLhyphen"/>ſhares into ſwords, and the pruning-hooks into ſpears:</hi>
+               <note place="margin">Joel 3.9,10.</note> How near are we that caſe? Behold your
+<hi>Morning</hi> turning into a diſmall <hi>Night;</hi> a night of warre. God
+gives a people the truth of his word and worſhip, the pure light of his
+Goſpel; An unſpeakable bleſſing, a glo<g ref="char:EOLhyphen"/>rious Morning! But if that
+people ſhall either <hi>detain that truth in unrighteouſneſſe</hi>
+               <note place="margin">Rom. 1.18.</note> and <hi>keep onely a form of godlineſſe but
+denie the power thereof;</hi>
+               <note place="margin">2. Tim. 3.5.</note> Or if they
+ſhall <pb n="30" facs="tcp:112862:18"/>not ſo much as keep the form, but openly corrupt
+Gods truth through hereſie, and pollute Gods worſhip with their own
+inventions; <hi>Cedo virgam,</hi> ſaith God, give me my rod of Egypt; <hi>I
+will ſtretch out my hand toward heaven, I will cauſe a darkneſſe
+through the land, a dark<g ref="char:EOLhyphen"/>neſſe that may be felt, ſo that one man ſhall
+not ſee an<g ref="char:EOLhyphen"/>other, neither ſhall any riſe from his place.</hi>
+               <note place="margin">Exod. 10.21,22.</note> Behold your <hi>Morning</hi> turned into a
+diſmall <hi>Night,</hi> a night of ſpiri<g ref="char:EOLhyphen"/>tuall darkneſſe. And ſurely
+this is of all others the moſt dreadfull night; the very dead of night, more
+then a Cim<g ref="char:EOLhyphen"/>merian darkneſſe, ſo groſſe that it may be felt. When
+af<g ref="char:EOLhyphen"/>ter ſo much means of light, groſſe ignorance doth poſ<g ref="char:EOLhyphen"/>ſeſſe a
+people; when in their ignorance they grope ſeve<g ref="char:EOLhyphen"/>rall wayes, ſome to
+Superſtition and Idolatrie, ſome to Schiſme and Separation, ſo that
+<hi>one does not ſee another;</hi> and all this with ſo much obſtinacie,
+that prove and preach what you will, <hi>none will riſe from his place,</hi>
+nor alter his reſolution, it makes me fear, leſt <hi>even for this cauſe
+God ſhould ſend ſtrong deluſions amongſt us that we ſhould believe
+a lie.</hi>
+               <note place="margin">3. Theſſ. 2.11.</note> O let us pray to God
+to diſpell this <hi>Night</hi> of ſpirituall darkneſſe, to keep off
+this rod; ſtrike us with any rod but this: ſtrike us with ſickneſſe,
+famine, warre, rather then with ſpirituall blindneſſe. The ſunſhine
+of Gods truth will afford ſome light of comfort to pious ſouls even in the
+midſt of ſickneſſe, want, and warre. But if the light of the Goſpel
+be once put out, though we enjoy health, and wealth, and peace, we are but in a
+deſperate darkneſſe. The Philoſopher ſaid well, <hi>If the ſunne be
+once down it is night for all the ſtarres.</hi> Well, beloved, there is one
+way, and onely one (I know) to keep off all theſe ſtrokes, to remove
+whatſoever judge<g ref="char:EOLhyphen"/>ments do threaten us in this diſmall night which comes
+faſt upon us; and that is a ſtroke too: This ſtroke was Davids ward. When
+David had diſpleaſed his God <hi>by numbering the people</hi>
+               <note place="margin">2. Sam. 24.2.</note> (and have not we done ſo? whoſo<g ref="char:EOLhyphen"/>ever, in
+ſuch times as theſe, doth not daily number up his ſinnes, he doth number
+the people; whoſoever, not <pb n="31" facs="tcp:112862:18"/>relying and daily
+addreſſing himſelf to God, truſts to his own plots and projects, to his
+wit and policie, he doth number the people) well, when David had thus offended,
+the Text ſaith, <hi>His heart ſmote him.</hi>
+               <note place="margin">2. Sam.
+24.10.</note> If our hearts did truly ſmite us with a ſenſe of our
+tranſgreſſions, God either would not ſtrike us, or ſtriking would not
+hurt us, <hi>His rod and his ſtaffe ſhould comfort us.</hi>
+               <note place="margin">Pſal. 23.4.</note> But if thy heart with David will not ſtrike
+thee; then do thou as the Publicane, ſtrike thou thy heart, <hi>percuſſit
+pectus, He ſtruck his breaſt, and ſaid, God be mercifull to me a
+ſin<g ref="char:EOLhyphen"/>ner.</hi>
+               <note place="margin">Luke 18.13.</note> If thy heart will not
+complain, complain of thy heart; grieve becauſe thou canſt not grieve. But
+if we be ſo hard hearted to our ſelves, and tender hearted to our ſinnes,
+that we will neither ſtrike our heart nor our heart ſtrike us, then what
+ſhall I ſay? Nothing remains for me, but onely to pray to God to take away
+theſe hearts, and to give us new ones, <hi>Cor novum crea, &amp;c. Make us a
+clean heart, and renew a right ſpirit within us.</hi>
+               <note place="margin">Pſal. 51.10.</note> In the words of Ezekiel, That <hi>God would
+take away theſe hearts of ſtone and give us hearts of fleſh.</hi>
+               <note place="margin">Ezek. 11.19.</note> Nay rather, with <hi>Bonaventure,</hi> that
+God would take from us theſe hearts of fleſh and give us hearts of ſtone;
+Were our hearts of ſtone, they would ſurely feel the rod of God. When
+Iſrael was in diſtreſſe and in a night of judgement, ready for thirſt
+to periſh, God by the hand and rod of Moſes <hi>ſtruck the ſtonie rock,
+and the waters guſhed out, and the ſtreams flowed withall.</hi>
+               <note place="margin">Pſal. 78.21.</note> O that God, by that powerfull rod of his,
+would ſtrike the ſtonie rocks of our obdurate hearts that thoſe waters,
+the waters of repentance might guſh out. Our Repentance, this is it which God
+expects, that he hath long called for, early and late, both in the
+<hi>morning,</hi> and in the <hi>night,</hi> even that we ſhould <hi>inquire,
+return,</hi> and <hi>come:</hi> ſo ſaith the Text, <hi>The Watchman ſaid,
+the morning cometh and alſo the night; if ye will inquire, inquire; return,
+come.</hi>
+            </p>
+            <p>IF <hi>ye will inquire, inquire; return, come.</hi> That is the
+latter part, the <hi>Directory</hi> of our <hi>Watchmans Watch<g ref="char:EOLhyphen"/>word.</hi>
+               <pb n="32" facs="tcp:112862:19"/>A part that is rich in matter, and full of life, but muſt
+be ſtrangled by the time. The ſteps are three; The Prophet hath
+expreſſed them in three words; I muſt diſ<g ref="char:EOLhyphen"/>patch them in almoſt as
+few. Where our firſt inquirie is about <hi>Inquiry,; if ye will Inquire,
+Inquire. Inquire, of Whom,</hi> and <hi>of What? Of what?</hi> Inquire of thy
+own ſtate to Godward: Then, <hi>of whom</hi> ſhouldſt thou in<g ref="char:EOLhyphen"/>quire but
+of <hi>God</hi> and <hi>thee.</hi> Inquire of God in his <hi>Word;</hi> of thy
+ſelf in thy <hi>Conſcience;</hi>
+               <note place="margin">P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſ.</note> 
+               <hi>Nec te quaeſiveris extrá.</hi>
+Let Gods Word tell thee what thou oughteſt to do; Let thy conſcience tell
+thee what thou haſt done. The reſult of theſe two inquiries will tell
+thee truly in what ſtate thou ſtandeſt to God. Gods Word is
+<hi>ſpeculum volunta<g ref="char:EOLhyphen"/>tis divinae,</hi> a perfect glaſſe of his ordinance
+concerning thee; and thy conſcience is <hi>ſpeculum vitae,</hi> the moſt
+per<g ref="char:EOLhyphen"/>fec glaſſe, where by reflection thou mayeſt ſee thy perfor<g ref="char:EOLhyphen"/>mance
+toward him. I ſee now adayes many much de<g ref="char:EOLhyphen"/>lighted in their
+looking-glaſſes; we will be ſure to uſe them every morning, and every
+night; we dreſſe us and undreſſe us by them: Nay we are not onely
+dreſſed by them, but dreſſed with them; we wear them at our girdles,
+they are become part of our apparell. Nay no room almoſt is now dreſſed
+up without a looking-glaſſe; and that <hi>in folio,</hi> a glaſſe in
+the largeſt volume. It may be you ſhall not find a Bible there, no not in
+the leaſt. O that the glaſſe of Gods word, the miroir of eternall life,
+were in half ſo much uſe and eſteem amongſt us. I will not ſay, as
+<hi>Tertullian</hi> ſeemeth, that they are <hi>Nundina<g ref="char:EOLhyphen"/>trices pudicitiae quae
+conſiliu<g ref="char:cmbAbbrStroke">̄</g> formae à ſpeculo petunt;</hi>
+               <note place="margin">Tertull.
+de vel. vug. c. 12.</note> That they ſet their bodies out to ſale that
+dreſſe their faces by a glaſſe. No, <hi>Socrates</hi> long ſince gave
+way to it in his ſcholars; <hi>A fair face,</hi> ſaith he, <hi>may learn
+even from the glaſſe to beautifie the ſoul; that ſo either part may
+an<g ref="char:EOLhyphen"/>ſwer other; and thoſe who are deformed may learn from thence the more to
+adde beauty to the ſoul to recompenſe defect.</hi>
+               <note place="margin">Apul.
+Apol. 1. Pharar. in prace<g ref="char:EOLhyphen"/>ptis conjug. Sen. 1. Natural. Quaſt. cap.
+17.</note> But this I will ſay, that they who more conſult their glaſſe
+then they do their Bible, inquire more whether <pb n="33" facs="tcp:112862:19"/>they be fair
+then good; and this is not the <hi>inquiry</hi> of the Text. No, <hi>if ye will
+inquire, inquire;</hi> that is, inquire to Godward. Theſe inquire more into
+mans pleaſure &amp; their own pride, then into Gods will and their own duty.
+Firſt look on Gods glaſſe, and then in Gods name look on thine. If thou
+once truly ſeeſt the deformity of thy ſoul, I dare truſt thee, thou
+wilt never pride thy ſelf more in the beau<g ref="char:EOLhyphen"/>ty of thy body.
+<note place="margin">In Grac. Epi<g ref="char:EOLhyphen"/>gram.</note> 
+               <hi>Lais,</hi> the
+famous Curtezan, the pride of her youth being paſt, when ſhe ſaw her
+wrinckles threw away her glaſſe; alas! the fault was in the face, not in
+the glaſſe: And too many of us upon the conſciouſneſſe of our own
+ſinnes, we throw away our Bibles. In our Bibles we all, <hi>as in a
+glaſſe, with open face behold the glory of the Lord:</hi>
+               <note place="margin">2. Cor. 3.18.</note> But when by a glimpſe in our own
+conſciences we perceive that <hi>we have all ſinned, and come ſhort of
+the glory of God,</hi>
+               <note place="margin">Rom. 3.23.</note> then we throw away
+the glaſſe, and then we either go on careleſly in a bold preſumption,
+or fall ſuddenly into the pit of fearfull deſperation. Now God forbid; No,
+inquire you muſt, nay and inquire you may. <hi>Search the Scriptures,</hi>
+yea and <hi>ſearch your hearts;</hi>
+               <note place="margin">John 5.34.</note> yea
+ſearch them throughly, <hi>if ye will inquire, inquire;</hi>
+               <note place="margin">Pſal. 4.4.</note> ſearch to the very bottome. Let me have no
+ſlight and ſu<g ref="char:EOLhyphen"/>perficiall inquiry; make not a pretence of inquiring &amp; no
+ſuch matter. <hi>Scrutemur vias noſtras &amp; ſtudia noſtra, &amp; in
+eo ſe judicet quiſque profeciſſe, non cùm non invenerit quod
+reprehendat, ſed cùm quod invenerit reprehendit.</hi>
+               <note place="margin">Bern. Serm. 58. in Cant.</note> Never ceaſe to ſearch till
+thou haſt found that thou hadſt cauſe to ſearch. When Eliah ſent his
+ſervant to the top of Carmel to report what he ſaw, the Text ſaith, He
+went up and looked, and ſaid, <hi>Non eſt quicquam, There is no<g ref="char:EOLhyphen"/>thing.</hi>
+Well, go again ſaith Eliah, ſeven times;<note place="margin">1. Kings
+18.43,</note> and <hi>at the ſeventh time,</hi> the ſervant ſaid,
+<hi>Behold, there ariſeth a lit<g ref="char:EOLhyphen"/>tle cloud, Sicut vola hominis, like a mans
+hand;</hi>
+               <note place="margin">44,</note> 
+               <hi>But ſuddenly it came to
+paſſe, that the heaven was black with clouds and wind, and there was a
+great rain.</hi>
+               <note place="margin">45.</note> When we firſt imploy our
+ſouls in this buſineſſe of inquiry how things ſtand betwixt God and
+us, whether no cloud of <pb n="34" facs="tcp:112862:20"/>known ſinne do intercept his
+favour; what with ſelf-flat<g ref="char:EOLhyphen"/>tery, &amp; what with negligent inquiry, we have
+no other an<g ref="char:EOLhyphen"/>ſwer but all is well, <hi>Non eſt quicquam; There is
+nothing.</hi> How many here preſent be there that never as yet made ſo much
+as a ſcruple of their ſalvation? no, they think themſelves as ſure of
+heaven, and the bleſſed life to come, as of this preſent life; they count
+themſelves as deep in Gods favour, as they are in their own. I pray God you
+have cauſe. But haſt thou <hi>inquired,</hi> man, haſt thou inqui<g ref="char:EOLhyphen"/>red
+throughly? haſt thou inquired again and again, ſeven times? If thou haſt,
+I dare ſay thou wilt diſcry a cloud; Shall I ſay <hi>a little cloud of
+the bigneſſe of a mans hand, Nubes ſicut vola hominis?</hi> yes, all our
+clouds, all our ſinnes are meaſured by our own hands, they are the works of
+our fingers, perhaps <hi>little</hi> at the firſt appear<g ref="char:EOLhyphen"/>ance: but ſoon
+after when the conſcience is well awake<g ref="char:EOLhyphen"/>ned, <hi>the whole heaven is black
+with clouds and wind.</hi> Like S. Paul and his companions in the ſtorm,
+<hi>neither ſunne nor ſtarres in many dayes appear, and no ſmall
+tem<g ref="char:EOLhyphen"/>peſt lieth on us, all hope that we ſhall be ſaved is taken
+away.</hi>
+               <note place="margin">Acts 27.20.</note> Behold, I am overſhadowed,
+ſaith one, with a cloud of ignorance; how negligent have I been all my life
+in the reading and meditating of Gods word? how have I profaned his day and
+deſpiſed his ordinances? Is there any hope that I ſhould be ſaved?
+Behold, I, ſaith ano<g ref="char:EOLhyphen"/>ther, have been hurried with a tempeſt of wrath, envy,
+and maliciouſneſſe: I have imbrued my hands in my bro<g ref="char:EOLhyphen"/>thers bloud, for
+which Chriſt ſhed his own. Is there any hope that I ſhould be ſaved?
+Alas, ſaith a third, how have I been benighted in a cloud of luſt, and
+ſmothered my conſcience for how long together in the unlawfull bed? Is
+there any hope that I ſhould be ſaved? And I, ſaith a fourth, have been
+puffed up with a proud and ambiti<g ref="char:EOLhyphen"/>ous wind, as though in deſpight of God, I
+would climbe up to heaven by the ſame way that Lucifer fell down. What hope
+is there for us that we ſhould be ſaved? Yes, poore ſouls, there is good
+hope; nay more hope of theſe <pb n="35" facs="tcp:112862:20"/>that have thus upon inquiry
+found their ſtate, then of a thouſand careleſſe wretches, or proud
+juſticiaries, that ei<g ref="char:EOLhyphen"/>ther do not ſearch, or will not find. What though
+<hi>the heavens be black with clouds and wind?</hi> Remember what follows in
+the Text, <hi>And there was a great rain.</hi>
+               <note place="margin">1. Kings
+18.44.</note> Let that rain follow upon thy inquirie: Showre down thy tears,
+and they will ſpend the cloud, alay the ſtorm, and clear the skie: <hi>I
+have blotted out as a thick cloud thy tranſgreſſions, and as a cloud thy
+ſinnes; return unto me, for I have redeemed thee.</hi>
+               <note place="margin">Iſaiah 44.22.</note> If thou upon this inquiry wilt cry
+<hi>peccavi,</hi> God will cry <hi>veni;</hi> Do thou return, and God crieth
+<hi>Come;</hi> and therefore, <hi>If thou wilt inquire, inquire; Return,
+Come.</hi>
+            </p>
+            <p>It is impoſſible to <hi>Return,</hi> unleſſe we firſt
+<hi>Inquire;</hi> and it is unprofitable to Inquire unleſſe we alſo Turn:
+And therefore, <hi>Let us ſearch and try our wayes, and Turn,</hi> ſaith
+the Prophet <hi>Jeremy.</hi>
+               <note place="margin">Lam. 3.40.</note>
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Convertimini;</hi> ſo S.
+<hi>Hie<g ref="char:EOLhyphen"/>rome</hi> reads the Text: <hi>Revertimini,</hi> ſaith <hi>Junius. Be
+ye Turned,</hi> or <hi>Turnye,</hi> or <hi>Return.</hi> The truth is, there is
+all in the Text; We muſt be Turned; we muſt Turn; we muſt Return. There
+is a turning wherein we are onely paſſive; <hi>Et hîc cardo ſalutis
+vertitur,</hi> This is the main hinge of all. God muſt firſt turn us by
+breathing a <hi>new ſpirit</hi> into us, the <hi>Spirit of Regeneration;</hi>
+and that is <hi>gratia praeveniens,</hi> or <hi>gratia operans,</hi> ſaith S.
+<hi>Auguſtine;</hi>
+               <note place="margin">Auguſt.</note> 
+               <hi>Turn thou me, and
+I ſhall be turned,</hi> ſaith the Prophet <hi>Jeremie.</hi>
+               <note place="margin">Jer. 31.8.</note> Being thus turned by God, we together with him,
+muſt act, and turn our ſelves by the imployment of Gods grace in us; and
+that is <hi>gratia cooperans,</hi> or <hi>gratia ſubſequens.</hi> Now by
+the aſſiſtance of this grace we muſt ſo <hi>Turn,</hi> that we
+<hi>Return,</hi> even from our ſinnes, and to<g ref="char:EOLhyphen"/>wards God. All this is included
+in our Converſion. The firſt of the three is here ſuppoſed: God doth
+not ſtirre us up to do his peculiar part, to work the firſt act of our
+converſion, that were mere <hi>Pelagianiſme; No man hath quickened his own
+ſoul;</hi>
+               <note place="margin">Pſal. 22.30.</note> But <hi>you hath God
+quickened, who were dead in treſpaſſes and ſinnes.</hi>
+               <note place="margin">Epheſ. 2.1.</note> But being by him <pb n="36" facs="tcp:112862:21"/>quickned, and turned from death to life, by the aſſiſtance and
+cooperation of his grace, he calls upon us to do the parts of living men,
+actually to turn. And a happy turn it is, though not ſo eaſie a matter as
+the world thinks. Moſt think to <hi>Repent</hi> with the turning of a hand.
+It is not the turning of our habits, the changing of our clothes from colours
+into blacks (if that were all, we had ſtore of converts here this day) no not
+from ſilks to ſackcloth. <hi>Rend your hearts, and not your garments;</hi>
+ſaith the Prophet.<note place="margin">Joel 2.13.</note> It is not the turning
+of our diets from fleſh to fiſh; <hi>The kingdome of heaven conſiſts
+not of meats and drinks,</hi> ſaith the Apoſtle.<note place="margin">Rom.
+14.17.</note> It is not the change of our countenance, the turning up of our
+eyes. <hi>Philo<g ref="char:EOLhyphen"/>ſtratus</hi> tells us of a Rhetorician who committed a
+ſole<g ref="char:EOLhyphen"/>ciſme, ſpake falſe Latine with his finger, he cryed out,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, O heavens, and pointed to the
+earth.<note place="margin">Philoſtratus. Huc alludit Quin<g ref="char:EOLhyphen"/>til. lib. Inſtit.
+11.</note> Many, too many, look demurely, but live wickedly; <hi>Curios
+ſimulant, &amp; Bacchanalia vivunt.</hi> No, it is not the bare turning or
+lifting up of our hands; the doing of ſome ſeeming chari<g ref="char:EOLhyphen"/>table good works.
+None of all theſe turnings will ſerve our turn: the reaſon is, becauſe
+all theſe turnings may be, and yet we not Turn. If you will have it in a
+word, it is the turning of our heart, even of all our heart, <hi>Therefore
+alſo now ſaith the Lord, Turn ye unto me with all your heart.</hi>
+               <note place="margin">Joel 2.12.</note> 
+               <hi>With the heart,</hi> and therefore
+ſincerely, without hypocriſie; <hi>with all the heart,</hi> and therefore
+intirely, with<g ref="char:EOLhyphen"/>out partiality. A man is ſaid to turn that way his face turns.
+The heart is the face of the inward man; that is his viſage toward God.
+<hi>Man looketh upon the outward ap<g ref="char:EOLhyphen"/>pearance, but God looketh upon the
+heart.</hi>
+               <note place="margin">1. Sam. 16.7.</note> If thy heart do not turn,
+that is, the reſolution and inclination of thy underſtanding, will and
+affections (whatſoever thy out<g ref="char:EOLhyphen"/>ward actions be) thou doſt not turn. But if
+thy heart de<g ref="char:EOLhyphen"/>teſt the ſinnes thou haſt committed formerly; If thou
+ſeeſt their foulneſſe; If thou abhorreſt their vileneſſe; If what
+was wont to be a pleaſure to thee, be now a pain and grief to think on; If
+thou canſt reſolve for ever hereafter, <pb n="37" facs="tcp:112862:21"/>not onely to
+forſake them, but to loath them: then thou <hi>Turneſt,</hi> nay then thou
+<hi>Returneſt,</hi> that is, thou doſt Turn homeward from whence thou wert
+ſtrayed by ſinne: thou removeſt from ſinne, and draweſt home to
+God<g ref="char:EOLhyphen"/>ward. This is that <hi>Godly ſorrow that worketh repentance to
+ſalvation, not to be repented of. For behold, this ſelf<g ref="char:EOLhyphen"/>ſame thing, that
+ye ſorrowed after a godly ſort, what carefulneſſe it wrought in you?
+yea, what clearing of your ſelves? yea, what indignation? yea, what fear?
+yea, what vehement deſire? yea, what zeal? yea, what revenge?</hi>
+               <note place="margin">2
+Cor. 7.11.</note> Why what ado is here with theſe Corinthians? could they not
+repent without ſo great a ſtirre? O be not miſta<g ref="char:EOLhyphen"/>ken! where true
+Repentance is, it ſets the whole man awork, and ſo it had need; for it
+rendreth him a clean other man: new thoughts, new deſires, new reſolutions.
+Ask not me, ask your own hearts whether ye are returned or not. Ask thy ſelf
+what was the laſt thought that went to bed with thee laſt night, and was up
+this day moſt ear<g ref="char:EOLhyphen"/>ly ſtirring in thy breaſt; Was it of heaven or earth?
+Was it a thought of vanity, or of pietie? Was it for the com<g ref="char:EOLhyphen"/>mitting, or the
+crucifying of ſome ſinne? Did it ſavour of worldly pleaſure, or godly
+ſorrow? Didſt thou think of thy old ſinnes, as thy ſworn enemies, or as
+thy ſweet companions, which, though now aſunder (for a Faſt-day, or ſo)
+yet ſhould meet ere long, and be as mer<g ref="char:EOLhyphen"/>ry as ever? If you can think of your
+old ſinnes with pa<g ref="char:EOLhyphen"/>tience, I dare not tell you what I think of you. But if
+you be now truly grieved for them, ſeriouſly reſolved to abandon them;
+Behold I come a meſſenger of good news: good news unto thy ſoul, good
+news to heaven; <hi>Heus tu peccator, bono animo ſis; vides ubi de tuo
+redi<g ref="char:EOLhyphen"/>tu gaudeatur: Tertullian.</hi>
+               <note place="margin">Tertull. de poen.</note>
+Heaven joyeth to ſee a return<g ref="char:EOLhyphen"/>ing ſinner, it is <hi>tripudium coeli,</hi>
+The bleſſed Angels joy: <hi>Lacrymae poenitentium ſunt vinum.
+Angelorum.</hi>
+               <note place="margin">Bernard. Serm. 30. in Cant.</note> When thou
+returneſt, they in troups come forth to meet thee. Nay, the bleſſed
+Trinity doth joy; God the Father joyes at thy return; Why this, ſaith he, is
+my loſt ſonne, my <pb n="38" facs="tcp:112862:22"/>returning prodigall; <hi>Tam pater
+nemo, tam pius nemo, Tertullian.</hi>
+               <note place="margin">Tertull. ibidem.</note>
+God the Sonne rejoyceth; Why this, ſaith he, is my loſt ſheep, returning
+to the fold; <hi>
+                  <g ref="char:V">Ʋ</g>na paſtoris ovicula, ſed grex unâ carior non
+eſt.</hi>
+               <note place="margin">Idem ibidem.</note> God the Holy Ghoſt doth
+joy; Why this, ſaith he, is my renewed tem<g ref="char:EOLhyphen"/>ple, returning to the beautie of
+its firſt erection. And therefore God the Father he crieth, <hi>Come:</hi>
+God the Sonne he crieth, <hi>Come:</hi> and God the Holy Ghoſt he cryeth,
+<hi>Come.</hi> The Father he crieth, <hi>Veni ad me,</hi> Come unto me; for I
+am the End: The Sonne he crieth, <hi>Veni per me,</hi> Come by me; for I am the
+Way: The Holy Ghoſt crieth, <hi>Veni cum me,</hi> Come with me; for I am the
+Guide: All cry Come, and all cry Welcome; And therefore, <hi>If you will
+Inquire, Inquire; Return, Come.</hi>
+            </p>
+            <p>
+               <hi>Come.</hi> This word onely remaineth of the Text; one<g ref="char:EOLhyphen"/>ly one
+word of it, and I have done. Ye have heard, that the penitent ſinner now
+returning from his ſinne, every perſon of the Sacred Trinitie inviteth him.
+God the Fa<g ref="char:EOLhyphen"/>ther, thy Creatour, he cryeth Come: God the Sonne, thy Redeemer, he
+cryeth Come: And God the Holy Ghoſt, thy Sanctifier, he cryeth Come. Thy
+Almighty Creatcur calleth thee by the voice of Nature; Therefore come in
+<hi>humilitie</hi> to ſo great a Majeſtie. Thy gracious Redeemer calleth
+thee by the voyce of Scripture; There<g ref="char:EOLhyphen"/>fore come in <hi>faith</hi> to ſo dear
+a Saviour. Thy bleſſed Sanctifier calleth thee by his ſecret motion in
+thy heart; Therefore come in <hi>holineſſe</hi> and new obedience to thy
+holy guide. Behold a convoy of three heavenly virtues, Holineſſe in life,
+Humilitie in heart, and Faith in Chriſt. If thou comeſt to God, thou muſt
+Come with theſe. Take heed thou leaveſt not Holineſſe behind;
+<hi>Without Holineſſe no man ſhall ſee the Lord.</hi>
+               <note place="margin">Heb. 11.6.</note> Yet in no caſe for<g ref="char:EOLhyphen"/>get Humilitie,
+<hi>Bleſſed are the poore in ſpirit, for theirs is the Kingdome of
+heaven.</hi>
+               <note place="margin">Matth. 5.</note> But above all bring Faith: For
+<hi>without Faith it is impoſſible to pleaſe God; and he that cometh to
+God muſt believe.</hi>
+               <note place="margin">Heb. 11.6.</note> Theſe three
+Virgin-ſiſter-Graces all joyn hand in hand, and make a ring, and ſo
+<pb n="39" facs="tcp:112862:22"/>convey the Chriſtian ſoul to heaven between them.
+Ho<g ref="char:EOLhyphen"/>lineſſe taketh faſt hold of Humilitie; Humilitie takes hold of Faith;
+and Faith again of Holineſſe. Be ſure thou parteſt no hand; if thou
+doſt, thou mayeſt fall out be<g ref="char:EOLhyphen"/>tween them; and they fall out between
+themſelves. Ho<g ref="char:EOLhyphen"/>lineſſe without Humilitie will ſoon be proud: Humilitie
+without Faith will ſoon deſpair: <hi>Faith without</hi> Holi<g ref="char:EOLhyphen"/>neſſe,
+without <hi>works, is dead.</hi>
+               <note place="margin">James 2.26.</note> O let us
+labour for an humble Holineſſe, a faithfull Humilitie, and a holy Faith.
+Come with theſe to God, and I dare be bold in his name to bid thee welcome:
+Come with theſe this day, and he will denie thee nothing. Theſe never are
+denied acceſſe to the King of Kings. Holineſſe, that is, a pure
+conſcience within, an unſpotted life without, it is the daughter of the
+King of heaven. <hi>The Kings daughter is all glorious within, her clothing is
+of wrought gold.</hi>
+               <note place="margin">Pſal. 45.14.</note> Shall ſhe be
+denied acceſſe to her heavenly father? No, <hi>ſhe ſhall be brought
+unto the King in raiment of needle-work.</hi>
+               <note place="margin">15.</note> But
+ſhall ſhe come alone? No, <hi>the virgins that be her fel<g ref="char:EOLhyphen"/>lows</hi>
+(Humilitie and Faith) <hi>ſhall bear her company, and ſhall be brought unto
+thee. With joy and gladneſſe ſhall ſhe be brought, and enter into the
+Kings palace.</hi>
+               <note place="margin">16.</note> Bleſſed ſoul that
+comeſt thus accompanied! Theſe are the Kings Daughters; Thou art more, thou
+art made his ſpouſe, his bride, his wife. Heare how he wooes thee: <hi>My
+ſiſter, my love, my dove, my undefiled.</hi>
+               <note place="margin">Cant.
+5.2.</note> When thou thus comeſt to God, what is it but even the marriage of
+thy ſoul with Chriſt? <hi>Let us be glad, and rejoyce, and give honour to
+the Lord; for the marriage of the Lambe is come, and his wife hath made her
+ready.</hi>
+               <note place="margin">Revel. 19.7.</note> Made her ready; how? what
+hath ſhe put on? It followeth in the next verſe, <hi>She is arayed in fine
+linen, clean, and white; for the fine linen, is the righteouſneſſe of the
+Saints.</hi>
+               <note place="margin">8.</note> Why then is the righteouſneſſe
+of the Saints ſo clean, and white? I thought with the Prophet, That <hi>all
+our righteouſneſſe had been as a menſtruous cloth,</hi>
+               <note place="margin">Iſaiah 64.6.</note> 
+               <hi>Stillamus quotidie ſuper telam
+juſtitiae noſtrae ſaniem concupiſcentiae noſtrae.</hi>
+               <note place="margin">Bernard.</note> How <pb n="40" facs="tcp:112862:23"/>then is our
+righteouſneſſe clean and white? Yes, all is true. Our holineſſe, and
+inherent righteouſneſſe is <hi>fine linen,</hi> be<g ref="char:EOLhyphen"/>ing the work of the
+Holy Ghoſt; it muſt not be denied; but God knows how much ſoyled and
+ſpotted by the fleſh, till it be made clean and white; and therefore
+Humilitie muſt be ever at hand to ſcoure our righteouſneſſe; and
+Faith to waſh it. Humilitie doth daily rince it in a ſtream of tears, and
+makes it <hi>clean;</hi> Faith doth waſh it in the bloud of Chriſt, and
+makes it <hi>white. Theſe are they that have waſhed their robes, and made
+them white in the bloud of the Lamb.</hi>
+               <note place="margin">Revel. 7.14.</note>
+Chriſts bride hath made her ready; ſhe hath put on righteouſneſſe,
+that is, <hi>ſtolam ſanctorum</hi> (<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the word) the outward-garment, the righ<g ref="char:EOLhyphen"/>teouſneſſe of good
+works. But withall ſhe muſt put on <hi>interulam humilitatis,</hi> the
+inward garment of humilitie; <hi>Be clothed with humilitie,</hi>
+               <note place="margin">1. Pet. 5.5.</note> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+that is, ſaith <hi>Be<g ref="char:EOLhyphen"/>za,</hi> be ye inwardly adorned, <hi>eſtote intus
+ornati,</hi> be ye clothed inwardly with humilitie.<note place="margin">Beza in
+locum.</note> And over both, even in the ſight of God to cover both, ſhe
+hath put on <hi>velum,</hi> or <hi>peplum fidei,</hi> the veil of faith,
+whereby to Gods juſtice ſhe preſents Chriſts righteouſneſſe for
+hers. That is <hi>fine linen</hi> indeed, <hi>clean and white;</hi> And to the
+bride it is granted (<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is the
+word) that ſhe ſhould be arayed in this. When ſhe comes covered with this
+<hi>veil,</hi> ſhe comes with boldneſſe to the throne of grace. With this
+veil of faith ſhe paſſeth <hi>through the veil,</hi> and hath
+<hi>boldneſſe to enter into the holieſt by the bloud of
+Jeſus.</hi>
+               <note place="margin">Heb. 10.19.20.</note>
+            </p>
+            <p>The Spouſe did once complain of the watchmen, that they robbed
+her of her veil. <hi>The watchmen that went about the citie found me, they
+ſmote me, they wounded me; the keepers of the walls took away my veil from
+me.</hi>
+               <note place="margin">Cant. 5.7.</note> If we have any ſuch Watchmen,
+that would take away from the Church <hi>the veil of Chriſts imputed
+righ<g ref="char:EOLhyphen"/>teouſneſſe</hi> (our righteouſneſſe by faith) O let ſuch
+Watchmen watch no more, they ſmite, they wound Chriſts Spouſe; ſo that
+ſhe cannot do what the Watch<g ref="char:EOLhyphen"/>man in the Text doth bid her, ſhe cannot come
+with <pb n="41" facs="tcp:112862:23"/>confidence to God. But ſo ſhe muſt; even Come
+with <hi>Holineſſe,</hi> Come with <hi>Humilitie,</hi> and eſpecially
+Come with <hi>Faith;</hi> or elſe ſhe will never come home. As good not
+<hi>Come</hi> at all, as not come thus; and as good not <hi>Return,</hi> as not
+Come; and as good not <hi>Inquire,</hi> as not Return. Our Watchman therefore
+hath joyned all together, <hi>Inquire, if you will Inquire, Return,
+Come.</hi>
+            </p>
+            <p>And now the Watchman hath ſaid: You have ſeen the
+<hi>Watchman,</hi> and have heard the <hi>Watchword.</hi> You have ſeen the
+Watchmans <hi>Charge,</hi> and his <hi>Diſcharge.</hi> You have heard the
+Watchword as it is <hi>Monitory</hi> and <hi>Directory.</hi> As it is
+<hi>Monitory</hi> it tells us that the Morn<g ref="char:EOLhyphen"/>ing cometh, and alſo the Night;
+The <hi>Morning of Life,</hi> and <hi>Night of Death;</hi> The <hi>Morning of
+Proſperitie,</hi> and Gods mercie; The Night <hi>of Adverſitie,</hi> and
+Gods judgements. As it is <hi>Directory</hi> it calls upon us to <hi>Inquire,
+Return</hi> and <hi>Come.</hi>
+            </p>
+            <p>What remains, but that we practice what we have <hi>heard</hi> and
+<hi>ſeen?</hi> And that we may the better do it, that we turn the Sermon into
+a prayer, even to the <hi>Watch<g ref="char:EOLhyphen"/>man of Iſrael,</hi> That our Watchmen may
+<hi>ſtand where God hath ſet them;</hi> That our Watchmen may <hi>ſay
+what God doth ſhew them;</hi> That we all may be <hi>thankfull for our
+Morning</hi> and <hi>prepare for our Night;</hi> That we may <hi>Inquire into
+our ſelves, Return from our ſinnes,</hi> and <hi>Come home to God: The
+Watchman ſaid, The Morn<g ref="char:EOLhyphen"/>ing cometh, and alſo the Night; if ye will Inquire,
+in<g ref="char:EOLhyphen"/>quire; Return, Come.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
